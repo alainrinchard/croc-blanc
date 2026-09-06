@@ -1,0 +1,105 @@
+/* Compléments propres à Croc-Blanc, après la charte du modèle. */
+.hero {grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);gap:70px}
+.hero h1 {font-size:clamp(3.5rem,6.8vw,6.5rem);white-space:nowrap}
+.hero-deck {font:italic 2.25rem/1.2 var(--serif);margin:26px 0;color:var(--copper)}
+.hero-author span {font: .9rem var(--sans);color:var(--muted)}
+.hero-intro {max-width:600px;font-size:1rem;line-height:1.85}
+.book-stage {background:var(--surface);border:1px solid var(--line);min-height:480px}
+.book-stage img {width:260px;height:auto}
+.hero-art figcaption {line-height:1.7}
+.button {display:inline-flex;align-items:center;justify-content:center;gap:20px;padding:13px 22px;text-decoration:none;border:1px solid var(--copper);border-radius:4px;font-size:.9rem;font-weight:600}
+.primary {background:var(--copper);color:var(--paper)}
+/* Les liens dans un bouton gardent leur contraste, même dans .prose. */
+html .prose a.button.primary,html a.button.primary {background:#A75627;color:#F5F1EC;border-color:#A75627}
+html[data-theme="dark"] .prose a.button.primary,html[data-theme="dark"] a.button.primary {background:#FF6A00;color:#151515;border-color:#FF6A00}
+html a.button.primary:hover,html a.button.primary:focus-visible {text-decoration:underline;text-underline-offset:4px}
+.dossier-action {background:var(--surface);color:var(--ink);border:2px solid var(--copper)}
+.hero-dossier-note {font-size:.9rem;line-height:1.65;margin:18px 0 0;color:var(--muted);max-width:520px}
+.dossier-feature {padding:45px;margin-block:48px 0;border:1px solid var(--line);border-top:4px solid var(--copper);border-radius:6px;background:var(--surface)}
+.dossier-feature h2 {font-size:clamp(2rem,3.5vw,3rem)}
+.dossier-lead {font-size:1.1rem;max-width:850px;margin:22px 0 28px;line-height:1.75}
+.dossier-cards {display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:28px 0}
+.dossier-card {display:block;padding:24px;border:1px solid var(--line);border-radius:5px;background:var(--paper);color:var(--ink);text-decoration:none;min-width:0}
+.dossier-card h3 {font-size:1.35rem;margin:12px 0;line-height:1.3}
+.dossier-card p {font-size:.95rem;color:var(--muted);margin:0;line-height:1.65}
+.dossier-card:hover {border-color:var(--copper)}
+.dossier-card:hover h3 {text-decoration:underline;text-underline-offset:4px}
+.dossier-intro {max-width:1200px}
+.dossier-nav a {font-size:.9rem;padding-block:13px}
+@media(max-width:900px){.dossier-cards{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.dossier-cards{grid-template-columns:minmax(0,1fr)}.dossier-feature{padding:24px}.dossier-card{padding:20px}.hero-actions .button{width:100%}}
+.tab-list {flex-wrap:wrap}
+.tab-list button {flex:1 1 115px;min-height:52px}
+.reader-card {background:var(--surface)}
+.reader-card article {max-height:none}
+.prose h2 {font-size:2rem;letter-spacing:-.02em;margin:44px 0 24px}
+.prose h3 {font-size:1.55rem}
+.prose li>p {margin:0}
+.prose li>ul,.prose li>ol {margin-top:10px}
+.school-choice button {font-size:1rem;font-family:var(--serif);padding:20px}
+.school-intro {display:flex;justify-content:space-between;align-items:center;gap:20px;margin-bottom:24px}
+.school-intro h3 {margin:0}
+.study-item {border-bottom:1px solid var(--line);padding:0}
+.study-item>summary {padding:20px 0;font-size:1.05rem;font-weight:600;cursor:pointer}
+.study-item>.prose {padding:0 0 24px}
+.content-notice {color:var(--ink);background:var(--surface)}
+.dossier-layout>* {min-width:0}
+.dossier-content {overflow-wrap:anywhere}
+.dossier-content h1 {font-size:2.5rem;margin:60px 0 24px}
+.dossier-content h1:first-child {margin-top:0}
+.dossier-nav {padding-right:12px;scrollbar-width:thin}
+.media-unavailable,.media-reference {display:block;border:1px dashed var(--line);padding:16px;font-size:.9rem;color:var(--muted)}
+.creator-document {max-width:850px;padding-block:64px}
+.creator-document h1 {font-size:3.6rem}
+.author-section {padding:0}
+.author-photo figcaption {font-size:.75rem;margin-top:16px;color:var(--muted)}
+.facts {grid-template-columns:repeat(4,minmax(0,1fr))}
+.facts dd {font-size:1.1rem}
+.section {border-bottom:1px solid var(--line)}
+.hero-actions,.hero-tags {flex-wrap:wrap}
+.sheet-content .prose h2 {font-size:1.7rem}
+.sheet-toolbar {gap:20px;flex-wrap:wrap}
+html .print-sheet {background:#fff;color:#151515;--paper:#fff;--surface:#fff;--ink:#151515;--muted:#4D4C4B;--copper:#A75627;--line:#BDBAB6}
+html .print-sheet .sheet-content {background:#fff;color:#151515}
+html[data-theme] .print-sheet .prose a {color:#A75627}
+html[data-theme] .print-sheet .prose blockquote {background:#fff;color:#151515}
+html .print-sheet .sheet-toolbar {color-scheme:light}
+@media screen {
+ html[data-theme="dark"] .hero-deck {color:var(--ink)}
+ html[data-theme="dark"] .content-notice {color:var(--ink);background:var(--surface)}
+ html[data-theme="dark"] .book-stage {background:var(--surface)}
+}
+@media(max-width:760px){
+ .hero {grid-template-columns:minmax(0,1fr);gap:35px}
+ .hero h1 {font-size:clamp(3rem,12vw,5rem);white-space:normal}
+ .hero-deck {font-size:1.9rem}
+ .header-inner {flex-wrap:wrap;gap:10px;min-height:80px}
+ .theme-toggle {font-size:.75rem;padding:7px 9px}
+ .brand-sub {display:none}
+ .hero-author span {display:block;margin-top:8px}
+ .book-stage {min-height:400px;padding:30px 45px}
+ .book-stage img {max-width:100%;width:230px}
+ .facts {grid-template-columns:repeat(2,minmax(0,1fr))}
+ .school-intro {display:block}
+ .school-intro .button {margin-top:12px}
+ .dossier-layout {grid-template-columns:minmax(0,1fr)}
+ .dossier-nav {display:block;max-height:300px;border:1px solid var(--line);padding:12px 18px;overflow:auto}
+ .dossier-content h1 {font-size:2rem}
+ .reader-card article {padding:24px 20px}
+ .tab-list button {flex-basis:100px}
+ .creator-document h1 {font-size:2.5rem}
+ .author-section {grid-template-columns:minmax(0,1fr)}
+ .sheet-content {width:calc(100% - 24px);padding:24px 16px}
+ .sheet-title h1 {font-size:2.3rem}
+}
+@media print {
+ .sheet-content .prose h2 {font-size:17pt;break-after:avoid}
+ .sheet-content .prose h3 {font-size:14pt;break-after:avoid}
+ .sheet-content {width:100%;padding:0}
+ .sheet-content .prose p,.sheet-content .prose li {orphans:3;widows:3}
+ .sheet-content blockquote {background:white;border-left-color:#4D4C4B;font-size:11pt}
+ .sheet-content table {font-size:9pt;table-layout:fixed;overflow-wrap:anywhere}
+ .sheet-content th,.sheet-content td {padding:6px}
+ .sheet-toolbar {display:none!important}
+ .hero h1 {white-space:normal}
+}

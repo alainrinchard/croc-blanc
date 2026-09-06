@@ -1,0 +1,1984 @@
+# Croc-Blanc — Dossier complet et fiches de lecture
+
+## Partie 1 — Fiche d’information pour bibliothèque numérique
+
+### Identification du livre
+
+* **Titre du livre dans l’EPUB fourni :** *Croc Blanc*
+* **Titre bibliographique français usuel :** *Croc-Blanc*
+* **Titre original :** *White Fang*
+* **Auteur :** Jack London
+* **Nom de naissance :** John Griffith Chaney. Cette forme est attestée par la documentation du Jack London State Historic Park. ([Jack London State Historic Park][1])
+* **Nationalité de l’auteur :** américaine
+* **Dates de naissance et de décès :** 12 janvier 1876 – 22 novembre 1916. ([Smithsonian Institution][2])
+* **Date de première publication :** 1906. Le roman paraît d’abord en feuilleton dans *Outing Magazine*, de mai à octobre 1906, puis en volume chez Macmillan. Une lettre de l’éditeur George Brett indique que le livre devait paraître le **25 octobre 1906** ; la page de copyright de l’édition originale mentionne simplement « Published October, 1906 ». ([PagePlace][3])
+* **Lieu de première publication en volume :** New York. ([Wikisource][4])
+* **Éditeur de la première édition :** The Macmillan Company. ([Wikisource][4])
+* **Première édition française vérifiée :** Paris, Les Éditions G. Crès et Cie, 1923, traduction de Paul Gruyer et Louis Postif. ([Wikisource][5])
+* **Date de l’édition fournie :** 9 août 2019 selon les métadonnées OPF de l’EPUB.
+* **Première publication sur Atramenta indiquée dans le fichier :** 10 mars 2011.
+* **Éditeur de l’édition fournie :** Atramenta.
+* **Collection :** aucune collection indiquée.
+* **Langue d’origine :** anglais.
+* **Langue de l’édition fournie :** français.
+* **Traducteurs :**
+
+  * **dans les métadonnées de l’EPUB :** non renseignés ;
+  * **identification par comparaison textuelle :** Paul Gruyer et Louis Postif. Les titres des 25 chapitres et le texte de l’EPUB correspondent à leur traduction publiée chez G. Crès en 1923. ([Wikisource][5])
+* **ISBN de l’édition fournie :** aucun ISBN présent.
+* **Identifiant interne Atramenta :** `ATMT-18697-20190809231417`.
+* **ISBN de l’édition originale :** sans objet : l’ISBN n’existait pas en 1906.
+* **Nombre de pages de l’EPUB :** non pertinent, l’EPUB étant à mise en page variable.
+* **Longueur du texte fourni :** environ **60 000 mots**, d’après un comptage automatisé des 25 chapitres ; cette valeur est indicative et dépend des règles de segmentation.
+* **Nombre de chapitres dans l’EPUB :** 25.
+* **Type d’ouvrage :** roman.
+* **Genre principal :** roman d’aventures.
+* **Sous-genres :** récit animalier ; roman du Grand Nord ; roman d’apprentissage animal ; fiction de survie.
+* **Mouvement ou courant littéraire :** principalement rattaché au **naturalisme américain**. Les travaux universitaires consacrés à London mettent notamment *White Fang* en relation avec le naturalisme, les théories de l’évolution, la lutte pour la survie et les rapports entre milieu et individu. ([Cambridge][6])
+* **Série ou cycle :** aucune série formelle.
+* **Relation avec *The Call of the Wild* (*L’Appel de la forêt*) :** les deux romans forment un diptyque thématique souvent étudié ensemble : Buck passe du monde domestique au monde sauvage, alors que Croc-Blanc accomplit globalement le mouvement inverse. Cette mise en miroir est notamment au cœur d’une étude universitaire de Kenneth K. Brandt. ([Cambridge][6])
+* **Numéro dans la série :** sans objet.
+* **Public conseillé :** adolescents et adultes ; lecture possible dès la fin du primaire avec accompagnement, mais cette traduction ancienne comporte un vocabulaire et une syntaxe parfois exigeants ainsi que plusieurs scènes de violence animale. Une édition scolaire moderne de Gallimard est explicitement destinée aux classes françaises de 6e et 5e. ([Cercle Enseignement][7])
+
+### Particularités de l’édition fournie
+
+L’analyse interne de l’EPUB permet d’établir les points suivants :
+
+* le fichier contient une couverture, une fiche d’information Atramenta, une table des matières et 25 chapitres ;
+* les métadonnées donnent le titre **« Croc Blanc »**, sans trait d’union ;
+* le traducteur n’est pas indiqué ;
+* l’EPUB porte la mention **« Œuvre du domaine public »** ;
+* sa catégorie interne est simplement **« Romans »** ;
+* l’introduction biographique présente dans l’édition française G. Crès de 1923 n’est pas reprise ;
+* le fichier de table des matières contient une anomalie technique : son élément HTML `<title>` porte **« Moby-Dick »**, alors que la table elle-même et le livre sont bien ceux de *Croc-Blanc*. Cette erreur n’affecte pas le contenu littéraire.
+
+La comparaison avec l’édition française de 1923 est suffisamment précise pour attribuer le texte de l’EPUB à la traduction Gruyer–Postif, mais cette attribution doit rester distincte des métadonnées fournies par Atramenta, qui ne la mentionnent pas. ([Wikisource][5])
+
+### Classement conseillé
+
+* **Titre de tri :** Croc-Blanc
+* **Auteur de tri :** London, Jack
+* **Série :** aucune
+* **Numéro dans la série :** sans objet
+* **Étiquettes / tags conseillés :**
+
+  * Jack London
+  * littérature américaine
+  * roman d’aventures
+  * récit animalier
+  * chien-loup
+  * loup
+  * chiens de traîneau
+  * Yukon
+  * Grand Nord
+  * Klondike
+  * ruée vers l’or
+  * survie
+  * nature
+  * domestication
+  * violence
+  * apprentissage
+  * relation homme-animal
+  * naturalisme
+* **Catégories conseillées :** Littérature américaine ; Romans d’aventures ; Romans animaliers ; Classiques.
+* **Mots-clés de recherche :** White Fang, Croc-Blanc, Jack London, Yukon, Klondike, chien-loup, Castor-Gris, Kiche, Beauty-Smith, Weedon Scott, survie, domestication.
+* **Classement bibliographique indicatif :** littérature américaine du début du XXe siècle. Une notice universitaire américaine classe l’œuvre sous Jack London, `PS3523.O46`, et notamment sous les sujets « wolfdogs » et « Northern Canada ». ([Online Books][8])
+
+### Résumé court sans divulgâcher
+
+Né dans le Grand Nord d’une louve partiellement domestiquée, Croc-Blanc découvre un monde gouverné par la faim, la force et la lutte pour survivre. Après sa rencontre avec les humains, il passe successivement par la soumission, la violence et l’exploitation. Son destin change lorsqu’il rencontre un homme qui lui oppose à la brutalité une forme de patience et d’affection.
+
+### Résumé moyen
+
+Le récit commence dans le Grand Nord canadien, où deux hommes et leurs chiens de traîneau sont poursuivis par une meute affamée. Parmi les loups se trouve Kiche, une louve ayant du sang de chien. Après la dispersion de la meute, elle donne naissance à plusieurs petits ; un seul survit durablement : le futur Croc-Blanc.
+
+Le jeune animal apprend très tôt les règles de la faim, de la chasse et du danger. Lorsqu’il rencontre des humains, Kiche reconnaît un ancien maître, Castor-Gris. Croc-Blanc entre alors dans le monde des hommes. Il y apprend l’obéissance mais aussi la violence, notamment sous les attaques répétées des autres chiens.
+
+Plus tard, il tombe entre les mains de Beauty-Smith, qui exploite son agressivité en l’utilisant dans des combats. L’animal devient extrêmement dangereux. Son existence prend cependant une autre direction avec l’arrivée de Weedon Scott, qui entreprend patiemment de gagner sa confiance.
+
+### Résumé long
+
+Le roman s’ouvre sur Henry et Bill, deux hommes qui traversent une immensité glacée avec un attelage et un cercueil. Une meute de loups affamés les suit. Une louve particulièrement audacieuse attire un à un les chiens vers la meute. Bill disparaît en tentant de sauver l’un d’eux ; Henry ne doit sa survie qu’à l’arrivée d’autres hommes.
+
+La louve, Kiche, s’éloigne ensuite avec Un-Œil. Elle met bas dans une tanière. La faim et la rudesse du milieu éliminent peu à peu les petits, à l’exception d’un louveteau gris. Celui-ci découvre progressivement le monde extérieur, la chasse, la peur, la douleur et ce que le récit désigne comme la « loi de la viande » : dans ce monde, les êtres sont chasseurs ou proies.
+
+Le louveteau rencontre ensuite des humains. Sa mère, Kiche, reconnaît Castor-Gris, qui l’avait autrefois possédée. Le jeune animal reçoit le nom de Croc-Blanc et devient à son tour dépendant des hommes. Il apprend à les considérer comme des êtres supérieurs, capables de fabriquer du feu et d’imposer leurs règles. Dans le camp, Lip-Lip le harcèle constamment. Cette persécution contribue à faire de Croc-Blanc un animal solitaire, méfiant, extraordinairement rapide et violent.
+
+Castor-Gris utilise Croc-Blanc comme chien de traîneau. L’animal devient puissant et discipliné mais ne connaît guère l’affection. À Fort Yukon, Beauty-Smith convoite le chien-loup. Il profite de la dépendance de Castor-Gris à l’alcool pour obtenir Croc-Blanc. Sous les mauvais traitements de son nouveau propriétaire, celui-ci devient une attraction de combats d’animaux. Il bat ses adversaires jusqu’à ce qu’un bouledogue nommé Cherokee manque de le tuer en s’accrochant à sa gorge.
+
+Weedon Scott et Matt interrompent le combat et sauvent Croc-Blanc. Scott refuse de considérer son agressivité comme irrémédiable. Par une longue succession de gestes prudents, il montre à l’animal qu’une main humaine peut caresser plutôt que frapper. Croc-Blanc découvre progressivement l’attachement. Lorsque Scott repart en Californie, le chien-loup parvient à le suivre.
+
+À Sierra-Vista, domaine de la famille Scott, Croc-Blanc doit apprendre de nouvelles règles : ne pas attaquer les animaux domestiques, accepter les membres de la famille, supporter les autres chiens et distinguer ce qui constitue ou non une menace. Son extraordinaire capacité d’adaptation lui permet d’intégrer progressivement ce nouvel univers.
+
+Dans le dernier chapitre, un évadé de prison, Jim Hall, vient se venger du juge Scott. Croc-Blanc l’affronte dans la maison et sauve la famille, mais il est grièvement blessé par plusieurs coups de revolver. Il survit contre les pronostics pessimistes du chirurgien et reçoit le surnom de « loup béni ». Le roman s’achève sur une image d’apaisement : Croc-Blanc, désormais uni à Collie, repose au soleil auprès de leurs petits.
+
+---
+
+### Présentation générale
+
+#### Contexte historique et culturel
+
+L’histoire se déroule principalement dans le Grand Nord nord-américain, dans le contexte de la ruée vers l’or du Klondike. Jack London connaissait personnellement cet univers : il partit lui-même pour le Yukon en 1897 et y séjourna pendant la ruée vers l’or de 1897-1898. Cette expérience fut décisive pour sa carrière littéraire, même si elle ne lui apporta pas la fortune recherchée. ([Jack London State Historic Park][9])
+
+Le Klondike fournit à London un cadre où les nécessités de la survie rendent particulièrement visibles la faim, le froid, les rapports de force, la solidarité, la violence et l’adaptation. Il ne faut cependant pas confondre ce matériau autobiographique avec un récit documentaire : *White Fang* reste une œuvre de fiction.
+
+#### Contexte littéraire
+
+Le roman appartient au vaste ensemble des récits du « Northland » de London. Ses œuvres du Nord sont étudiées dans la critique universitaire en relation avec le naturalisme littéraire, mais aussi avec les débats contemporains sur Darwin, l’évolution, le milieu, la compétition, la coopération et la frontière entre humanité et animalité. ([Cambridge][6])
+
+#### Place dans la carrière de l’auteur
+
+Lorsque *White Fang* paraît en 1906, Jack London est déjà un écrivain reconnu. Il a publié notamment :
+
+* *The Son of the Wolf* en 1900 ;
+* *The Call of the Wild* en 1903 ;
+* *The Sea-Wolf* en 1904.
+
+*White Fang* reprend certains grands motifs du Nord déjà exploités par London, mais en construisant une trajectoire presque inverse de celle de Buck dans *The Call of the Wild*.
+
+#### Importance de l’œuvre
+
+*Croc-Blanc* est devenu l’un des romans les plus durablement associés au nom de Jack London. Sa postérité se mesure notamment à ses rééditions, ses traductions, sa présence dans l’enseignement et ses nombreuses adaptations cinématographiques.
+
+En France, Gallimard publie encore une édition scolaire en texte intégral, traduite par Marc Amfreville et Antoine Cazé, accompagnée de matériel destiné aux classes de 6e et 5e. ([Cercle Enseignement][7])
+
+#### Thèmes principaux
+
+* survie ;
+* violence ;
+* apprentissage ;
+* adaptation au milieu ;
+* sauvage et domestique ;
+* rapports entre humains et animaux ;
+* domination et soumission ;
+* haine et affection ;
+* influence de l’expérience sur le comportement ;
+* instinct et apprentissage.
+
+#### Thèmes secondaires
+
+* faim ;
+* solitude ;
+* hiérarchie ;
+* propriété ;
+* exploitation économique de l’animal ;
+* cruauté ;
+* loyauté ;
+* famille ;
+* justice et violence sociale ;
+* rapport entre nature et civilisation.
+
+#### Tonalité dominante
+
+Aventureuse, rude et dramatique, avec de nombreux passages descriptifs parfois lyriques.
+
+#### Registres
+
+* dramatique ;
+* pathétique ;
+* épique dans certaines scènes de lutte ;
+* descriptif ;
+* parfois lyrique dans l’évocation du Wild ;
+* naturaliste dans l’attention portée à l’adaptation, à la faim et à la lutte.
+
+#### Narrateur ou point de vue
+
+Le narrateur est **extérieur à l’histoire** : il est donc hétérodiégétique. Après les premiers chapitres consacrés aux hommes et à la meute, le récit adopte très souvent une **focalisation interne sur Croc-Blanc** : le lecteur découvre le monde à travers les perceptions, apprentissages, peurs et associations de l’animal.
+
+London ne donne cependant pas à Croc-Blanc une pensée humaine complète. Le narrateur transforme ses expériences en langage pour le lecteur tout en rappelant régulièrement que l’animal ne formule pas abstraitement certaines idées.
+
+Cette question fut importante dans la controverse contemporaine sur la représentation littéraire des animaux ; London expliqua précisément qu’il voulait éviter de « humaniser » ses héros canins. Le National Endowment for the Arts rappelle cette prise de position en citant la réponse de London aux critiques de Theodore Roosevelt et John Burroughs. ([National Endowment for the Arts][10])
+
+#### Cadre spatio-temporel
+
+* **Première grande zone :** Grand Nord canadien et Yukon.
+* **Lieu important :** Fort Yukon.
+* **Deuxième grande zone :** Californie.
+* **Lieu final :** Sierra-Vista, propriété de la famille Scott.
+* **Époque représentée :** fin du XIXe siècle, dans le contexte de la ruée vers l’or du Klondike.
+
+#### Structure de l’œuvre
+
+L’EPUB fourni présente **25 chapitres successifs sans division supérieure visible**.
+
+L’édition originale anglaise de 1906 organise en revanche ces 25 chapitres en **cinq parties** :
+
+1. **Part One — The Wild** : chapitres 1 à 3 ;
+2. **Part Two — Born of the Wild** : chapitres 4 à 8 ;
+3. **Part Three — The Gods of the Wild** : chapitres 9 à 14 ;
+4. **Part Four — The Superior Gods** : chapitres 15 à 20 ;
+5. **Part Five — The Tame** : chapitres 21 à 25. ([Wikisource][4])
+
+Cette organisation rend explicite une progression essentielle : **Wild → naissance dans le Wild → domination humaine → confrontation entre différentes formes d’humanité → domestication**.
+
+---
+
+## Partie 2 — Histoire éditoriale, réception et postérité
+
+### Première publication
+
+Jack London commence *White Fang* à la fin de février 1905 et achève le manuscrit le 10 octobre 1905. Il vend les droits de publication en feuilleton à *Outing Magazine*. Le magazine publie le roman en livraisons mensuelles de mai à octobre 1906. ([PagePlace][3])
+
+Le roman paraît ensuite en volume à New York chez The Macmillan Company. Une lettre d’octobre 1906 de George Brett à London précise que *White Fang* « comes out on the 25th », ce qui permet de retenir le **25 octobre 1906** pour la sortie du volume, tandis que la page de copyright indique seulement octobre 1906. ([JSTOR][11])
+
+L’édition originale compte 327 pages et comporte des illustrations. Les exemplaires bibliophiliques montrent la reliure gris-vert décorée caractéristique de la première édition.
+
+#### Rémunération de Jack London
+
+Une note éditoriale universitaire publiée par Oxford University Press fournit une donnée exceptionnellement précise : *Outing Magazine* paya London **10 cents par mot, soit 7 419,20 dollars**, pour la publication du roman. Cette somme correspond à une rémunération de droits, **pas à un chiffre de ventes du livre**. La même source indique que les redevances versées par Macmillan pour l’édition en volume furent encore plus importantes, sans fournir de montant exact. ([PagePlace][3])
+
+### Première publication française
+
+La première édition française vérifiée utilisée pour identifier le texte fourni est :
+
+**Jack London, *Croc-Blanc (White Fang)*, traduction de Paul Gruyer et Louis Postif, Paris, Les Éditions G. Crès et Cie, 1923.** ([Wikisource][5])
+
+L’EPUB Atramenta reproduit les mêmes 25 titres de chapitres et une formulation correspondant à cette traduction, mais il ne reprend pas le nom des traducteurs dans ses métadonnées.
+
+### Accueil lors de la parution
+
+#### Réception critique
+
+Les témoignages contemporains retrouvés sont globalement favorables, mais ils ne permettent pas d’affirmer que toute la critique fut unanimement positive.
+
+Une recension publiée en février 1907 dans l’*International Socialist Review* insiste sur la psychologie animale, sur la progression du héros de la sauvagerie vers la civilisation et sur la transformation opérée par l’affection plutôt que par la peur. La critique estime également que, malgré le risque de monotonie d’une analyse prolongée de la psychologie animale, l’intérêt du récit se maintient. ([Marxists][12])
+
+Macmillan reproduisit par ailleurs dans ses publicités un extrait attribué au *New York Times Saturday Review*, qui louait le style énergique de London et présentait le roman à la fois comme une histoire efficace et comme une étude du développement animal. Cette source doit être maniée avec prudence : il s’agit d’un **extrait critique sélectionné par l’éditeur dans un support promotionnel**, et non de l’article original consulté directement. ([Wikisource][13])
+
+#### Réception du public
+
+Les sources consultées indiquent une forte valeur éditoriale de l’œuvre — rémunération élevée pour la publication en feuilleton, redevances Macmillan importantes selon la correspondance, réimpressions ultérieures — mais **aucun nombre suffisamment fiable d’exemplaires vendus à la parution n’a été retrouvé**.
+
+La page de copyright d’un exemplaire ancien mentionne notamment des réimpressions en janvier 1909, puis à plusieurs reprises entre 1911 et 1914. Cela témoigne d’une diffusion durable, mais ne fournit aucun nombre d’exemplaires. ([Wikimedia Commons][14])
+
+Il serait donc incorrect de convertir cette succession de réimpressions en estimation de ventes.
+
+### Succès commercial
+
+* **Tirage initial :** donnée non documentée de manière suffisamment fiable.
+* **Ventes initiales :** information non trouvée.
+* **Ventes durant la première année :** information non trouvée.
+* **Ventes cumulées mondiales :** aucun chiffre suffisamment fiable trouvé dans les sources consultées.
+* **Rémunération pour le feuilleton :** 7 419,20 dollars versés par *Outing Magazine*, à raison de 10 cents par mot. Il s’agit de droits d’auteur et non de ventes. ([PagePlace][3])
+* **Redevances Macmillan :** décrites dans la correspondance comme supérieures à la somme payée par *Outing*, mais sans montant précis conservé dans la source consultée. ([PagePlace][3])
+* **Territoire concerné par ces données :** États-Unis.
+* **Nature de la donnée :** données documentaires sur la rémunération de l’auteur, non données de vente.
+
+### Prix et distinctions
+
+**Aucun prix littéraire attribué à *White Fang* lors de sa parution n’a été identifié dans les sources consultées.**
+
+Il ne faut pas projeter sur un roman de 1906 le système contemporain de prix littéraires.
+
+### Interdictions, censures et controverses
+
+#### Censure ou interdiction légalement établie
+
+**Aucune interdiction ou mesure de censure visant spécifiquement *White Fang* n’a pu être documentée ici à partir d’une source primaire ou administrative suffisamment précise.**
+
+Plusieurs sources contemporaines consacrées aux « banned books » affirment que les œuvres de Jack London, parfois explicitement *The Call of the Wild* et *White Fang*, auraient été interdites en Italie et en Yougoslavie en 1929, en raison des idées politiques attribuées à London. Un éditeur actuel, Pan Macmillan, reprend notamment cette affirmation. ([Pan Macmillan][15])
+
+Cependant, les recherches effectuées n’ont pas permis de retrouver pour *White Fang* seul :
+
+* un texte réglementaire ;
+* une décision administrative ;
+* une date et une autorité précises ;
+* les limites exactes de la mesure ;
+* sa durée.
+
+**Conclusion documentaire : à vérifier.** Ces affirmations ne doivent pas être présentées comme une interdiction juridiquement établie de *Croc-Blanc* sans source primaire supplémentaire.
+
+Une bibliothèque publique américaine classe également une édition réunissant *The Call of the Wild* et *White Fang* parmi ses ouvrages « banned/challenged », mais sa page ne fournit pas les informations nécessaires pour reconstituer un cas précis. ([KPL][16])
+
+#### Controverse vérifiée : les « nature fakers »
+
+Une controverse importante est, en revanche, solidement attestée.
+
+En 1907, le président américain **Theodore Roosevelt** intervint dans la polémique dite des **« nature fakers »**, qui opposait naturalistes et écrivains sur l’exactitude des récits animaliers. Il critiqua notamment certaines scènes de Jack London et mit directement en cause *White Fang*. Une presse contemporaine rapporte à la fois la critique de Roosevelt et la réponse de London. ([Library of Congress][17])
+
+Le Theodore Roosevelt Center conserve également la trace d’un document de 1908 consacré explicitement à la querelle autour du chien-loup de *White Fang*. ([Theodore Roosevelt Center][18])
+
+London répondit en défendant une conception de ses récits animaliers fondée sur l’instinct, la sensation, l’émotion et des formes simples de raisonnement plutôt que sur une pensée abstraite humaine. ([National Endowment for the Arts][10])
+
+Il s’agit donc :
+
+* **d’une controverse littéraire et scientifique** ;
+* **pas d’une censure** ;
+* **pas d’une interdiction du roman**.
+
+### Postérité
+
+La réputation de *Croc-Blanc* s’est maintenue bien au-delà de sa première publication. Les indices vérifiables de cette postérité sont nombreux :
+
+* rééditions très précoces de l’édition Macmillan ; ([Wikimedia Commons][14])
+* traductions, dont la traduction française Gruyer–Postif dès 1923 ; ([Wikisource][5])
+* nombreuses adaptations cinématographiques dès 1925 ; ([AFI Catalog][19])
+* nouvelle traduction française moderne de Marc Amfreville et Antoine Cazé ; ([BnF Catalogue][20])
+* édition pédagogique Gallimard spécifiquement destinée aux classes de 6e et de 5e ; ([Cercle Enseignement][7])
+* études universitaires consacrées au couple *The Call of the Wild* / *White Fang* et au naturalisme de London. ([Cambridge][6])
+
+Le National Endowment for the Arts a également intégré un volume réunissant *The Call of the Wild*, *White Fang* et d’autres textes au programme **NEA Big Read 2026-2027**, signe supplémentaire de la permanence de cette œuvre dans la culture littéraire américaine. ([National Endowment for the Arts][10])
+
+---
+
+## Partie 3 — Adaptations et œuvres dérivées
+
+### Adaptations confirmées
+
+| Année | Titre                         | Média        | Pays                      | Réalisateur / créateur | Type d’adaptation                  | Informations importantes                                                                                                                                   |
+| ----- | ----------------------------- | ------------ | ------------------------- | ---------------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1925  | *White Fang*                  | Cinéma muet  | États-Unis                | Lawrence Trimble       | Adaptation cinématographique       | Production R-C Pictures ; scénario de Jane Murfin ; adaptation attestée par l’American Film Institute. ([AFI Catalog][19])                                 |
+| 1936  | *White Fang*                  | Cinéma       | États-Unis                | David Butler           | Adaptation très libre              | Production 20th Century-Fox. L’intrigue humaine est fortement réorganisée par rapport au roman. ([AFI Catalog][21])                                        |
+| 1946  | *The White Fang / Belyy klyk* | Cinéma       | URSS                      | Aleksandr Zguridi      | Adaptation                         | L’existence de cette adaptation russe est confirmée par l’AFI ; les crédits disponibles attribuent la réalisation à Aleksandr Zguridi. ([AFI Catalog][22]) |
+| 1973  | *Zanna Bianca / White Fang*   | Cinéma       | Italie / Espagne / France | Lucio Fulci            | Adaptation libre                   | Titanus présente officiellement le film comme fondé sur le roman tout en précisant qu’il se concentre sur la partie Klondike. ([Titanus][23])              |
+| 1991  | *White Fang / Croc-Blanc*     | Cinéma       | États-Unis                | Randal Kleiser         | Adaptation libre                   | Film Disney avec Ethan Hawke ; le scénario donne une place centrale au jeune Jack et transforme fortement la structure du roman. ([Disney Movies][24])     |
+| 2018  | *Croc-Blanc*                  | Animation 3D | France / Luxembourg       | Alexandre Espigares    | Adaptation cinématographique libre | Adaptation par Philippe Lioret, Serge Frydman et Dominique Monféry, explicitement « d’après » le roman de Jack London.                                     |
+
+### Adaptations majeures
+
+#### *White Fang* — 1925
+
+Il s’agit de l’une des premières adaptations cinématographiques identifiées. Le film est réalisé par Lawrence Trimble et produit par R-C Pictures. L’American Film Institute en donne une notice détaillée. ([AFI Catalog][19])
+
+Son importance est surtout historique : elle montre que le potentiel cinématographique de l’œuvre fut exploité moins de vingt ans après la publication du roman.
+
+#### *White Fang* — 1936
+
+La version de David Butler pour 20th Century-Fox s’éloigne sensiblement du récit original et déplace l’attention vers une intrigue humaine. L’AFI signale d’ailleurs que le générique présentait curieusement le livre comme une suite de *The Call of the Wild*. ([AFI Catalog][21])
+
+Il convient donc de parler d’**adaptation libre**, et non de transposition fidèle.
+
+#### *Zanna Bianca* — 1973
+
+Le film de Lucio Fulci constitue une adaptation européenne importante. Titanus précise qu’il se concentre sur les épisodes du Klondike. Il conserve Croc-Blanc, Beauty Smith et l’univers du Nord tout en réorganisant profondément les personnages et l’action. ([Titanus][23])
+
+Son succès a entraîné d’autres productions autour du personnage, ce qui contribue à expliquer la forte présence de Croc-Blanc dans la culture populaire européenne des années 1970.
+
+#### *White Fang* — Disney, 1991
+
+Le film de Randal Kleiser met Ethan Hawke dans le rôle de Jack, jeune chercheur d’or qui se lie au chien-loup. Disney confirme officiellement la sortie américaine du 18 janvier 1991, la réalisation par Randal Kleiser et la participation d’Ethan Hawke. ([Disney Movies][24])
+
+Le changement est structurel : le roman de London place très largement le lecteur dans l’expérience de Croc-Blanc, tandis que le film construit davantage un récit initiatique humain et une histoire d’amitié entre un jeune homme et l’animal.
+
+#### *Croc-Blanc* — Alexandre Espigares, 2018
+
+Cette version d’animation franco-luxembourgeoise dure environ 85 minutes. Le film est réalisé par Alexandre Espigares, avec une adaptation signée Philippe Lioret, Serge Frydman et Dominique Monféry. 
+
+Le parcours général du chien-loup est conservé — vie sauvage, Castor-Gris, homme cruel, sauvetage par des humains bienveillants — mais le scénario simplifie et réorganise fortement le roman afin de l’adapter au format cinématographique familial.
+
+### Œuvres inspirées par le livre
+
+Les différentes suites cinématographiques exploitant le nom ou le personnage de Croc-Blanc ne constituent pas nécessairement des adaptations directes du roman.
+
+La documentation de Titanus indique par exemple que le succès du film de 1973 provoqua la réalisation de plusieurs suites ou productions apparentées, certaines officielles et d’autres non. Elles doivent donc être traitées comme **œuvres dérivées ou inspirées**, et non automatiquement comme adaptations du texte de 1906. ([Titanus][23])
+
+**Bande dessinée, théâtre, radio, jeu vidéo :** des versions peuvent exister, mais aucune liste suffisamment vérifiée et homogène n’a été établie dans les sources retenues pour ce dossier. Elles ne sont donc pas ajoutées artificiellement.
+
+---
+
+## Partie 4 — Iconographie
+
+### Couverture de l’édition analysée
+
+![Couverture intégrée à l’EPUB Atramenta fourni](sandbox:/mnt/data/croc_blanc_atramenta_cover.jpg)
+
+* **Édition représentée :** EPUB *Croc Blanc* fourni par l’utilisateur.
+* **Éditeur :** Atramenta.
+* **Date technique de l’EPUB :** 9 août 2019.
+* **Première publication Atramenta mentionnée dans le fichier :** 10 mars 2011.
+* **Correspondance avec l’édition analysée :** oui, exacte.
+* **Source :** fichier `cover.jpg` intégré à l’EPUB.
+* **Illustrateur ou créateur graphique :** information non renseignée dans le fichier.
+* **Provenance graphique antérieure éventuelle :** information non trouvée.
+
+### Couverture de la première édition américaine — repère historique
+
+![Image](https://pictures.abebooks.com/inventory/32276955299.jpg)
+
+![Image](https://d3525k1ryd2155.cloudfront.net/h/345/383/797383345.1.x.jpg)
+
+La première édition Macmillan de 1906 est identifiable par sa reliure gris-vert portant le titre *WHITE FANG* et le nom de Jack London. La page de copyright de l’édition originale confirme une publication en octobre 1906. ([Wikimedia Commons][14])
+
+Cette couverture **n’est pas celle de l’EPUB analysé** ; elle est reproduite uniquement comme document historique.
+
+### Portrait de Jack London
+
+* **Personne représentée :** Jack London.
+* **Photographe :** Arnold Genthe.
+* **Date :** vers 1900.
+* **Technique :** photographie, tirage gélatino-argentique.
+* **Institution :** National Portrait Gallery, Smithsonian Institution.
+* **Numéro d’objet :** NPG.98.57.
+* **Droits signalés par l’institution :** CC0 / domaine public. ([Smithsonian Institution][2])
+
+---
+
+# Partie 5 — Trois fiches de lecture adaptées au niveau scolaire
+
+# Fiche 1 — Enseignement primaire
+
+## Niveau scolaire
+
+* **Belgique francophone :** enseignement primaire.
+* **Années principalement concernées :** surtout 5e et 6e primaire, avec préférence pour la 6e.
+* **France :** école élémentaire.
+* **Classes françaises approximativement concernées :** principalement CM2 ; éventuellement fin de CM1 pour des extraits accompagnés. La proximité d’âge avec la 6e française peut également être utile, mais celle-ci appartient déjà au collège.
+* **Niveau de lecture conseillé :** bon lecteur, idéalement avec accompagnement.
+* **Difficulté du livre :** **difficile pour une lecture autonome au primaire**, surtout dans cette traduction ancienne.
+* **Point d’attention :** plusieurs scènes montrent la faim, la mort d’animaux, les combats de chiens et la cruauté humaine. Une médiation adulte est recommandée.
+
+Une édition scolaire française moderne est d’ailleurs destinée officiellement aux 6e et 5e plutôt qu’à l’école élémentaire. ([Cercle Enseignement][7])
+
+## Le livre en quelques mots
+
+* **Titre :** *Croc-Blanc*
+* **Auteur :** Jack London
+* **Type de livre :** roman d’aventures avec un animal comme personnage principal.
+* **Lieu principal :** le Grand Nord, puis la Californie.
+* **Époque :** à l’époque de la ruée vers l’or du Klondike.
+* **Personnage principal :** Croc-Blanc, un chien-loup.
+* **Sujet du livre :** Croc-Blanc grandit dans un monde difficile. Il apprend à survivre, rencontre des humains cruels puis des humains bienveillants et découvre progressivement qu’il peut faire confiance.
+
+## Résumé facile à comprendre
+
+Au début du livre, deux hommes voyagent dans un pays très froid avec leurs chiens. Des loups affamés les suivent. Parmi eux se trouve une louve appelée Kiche.
+
+Plus tard, Kiche donne naissance à plusieurs petits. Un seul devient vraiment important dans l’histoire : un louveteau gris qui sera appelé Croc-Blanc.
+
+Croc-Blanc apprend à chasser et à se protéger. La nature est dangereuse et il doit comprendre très vite ce qui peut le blesser ou le tuer.
+
+Quand il rencontre des humains, sa vie change. Castor-Gris devient son maître. Croc-Blanc apprend à obéir, mais les autres chiens sont souvent méchants avec lui. Il devient solitaire et agressif.
+
+Un homme cruel, Beauty-Smith, l’utilise ensuite pour des combats de chiens. Croc-Blanc souffre beaucoup et devient encore plus dangereux.
+
+Un jour, Weedon Scott le sauve. Au lieu de le frapper, il se montre patient avec lui. Croc-Blanc découvre peu à peu qu’un humain peut être gentil.
+
+Il suit finalement Scott en Californie. Il doit encore apprendre de nouvelles règles, mais il devient un protecteur fidèle de la famille. À la fin, il sauve ses maîtres d’un homme dangereux, survit à ses blessures et vit paisiblement avec Collie et leurs petits.
+
+## Les personnages
+
+### Croc-Blanc
+
+* **Qui est-il ?** Un chien-loup né dans le Grand Nord.
+* **Que fait-il ?** Il apprend à survivre puis à vivre avec les humains.
+* **Ce qu’il faut retenir :** il change beaucoup selon la manière dont les autres le traitent.
+
+### Kiche
+
+* **Qui est-elle ?** La mère de Croc-Blanc.
+* **Que fait-elle ?** Elle le protège lorsqu’il est petit et lui apprend indirectement à survivre.
+* **Ce qu’il faut retenir :** elle appartient à la fois au monde sauvage et au monde des chiens domestiqués.
+
+### Castor-Gris
+
+* **Qui est-il ?** Le premier maître humain de Croc-Blanc.
+* **Que fait-il ?** Il lui impose des règles et l’utilise notamment comme chien de traîneau.
+* **Ce qu’il faut retenir :** Croc-Blanc lui obéit surtout parce qu’il reconnaît sa puissance.
+
+### Lip-Lip
+
+* **Qui est-il ?** Un chien du camp.
+* **Que fait-il ?** Il harcèle Croc-Blanc.
+* **Ce qu’il faut retenir :** ses attaques contribuent à rendre Croc-Blanc solitaire et agressif.
+
+### Beauty-Smith
+
+* **Qui est-il ?** Un homme cruel.
+* **Que fait-il ?** Il transforme Croc-Blanc en animal de combat.
+* **Ce qu’il faut retenir :** il montre ce que la cruauté humaine peut provoquer.
+
+### Weedon Scott
+
+* **Qui est-il ?** L’homme qui sauve Croc-Blanc.
+* **Que fait-il ?** Il gagne peu à peu sa confiance.
+* **Ce qu’il faut retenir :** il montre à Croc-Blanc que l’être humain n’est pas nécessairement un ennemi.
+
+## Les moments importants
+
+### 1. La naissance de Croc-Blanc
+
+Il naît dans une tanière, au milieu d’une nature dangereuse.
+
+**Pourquoi c’est important :** c’est le début de son apprentissage.
+
+### 2. La découverte du monde extérieur
+
+Le louveteau quitte la tanière et rencontre des animaux, des obstacles et des dangers.
+
+**Pourquoi c’est important :** il apprend par l’expérience.
+
+### 3. La rencontre avec les humains
+
+Croc-Blanc découvre le feu et le pouvoir des hommes.
+
+**Pourquoi c’est important :** sa vie bascule du monde sauvage vers le monde humain.
+
+### 4. Les combats organisés par Beauty-Smith
+
+Croc-Blanc devient un animal de combat.
+
+**Pourquoi c’est important :** cette période explique sa violence et sa peur des humains.
+
+### 5. Le sauvetage par Weedon Scott
+
+Scott l’empêche de mourir pendant un combat.
+
+**Pourquoi c’est important :** pour la première fois, un homme commence à lui apprendre la confiance plutôt que la peur.
+
+### 6. La défense de la famille Scott
+
+Croc-Blanc protège la maison contre Jim Hall.
+
+**Pourquoi c’est important :** il risque sa vie pour les humains auxquels il est désormais attaché.
+
+## Les grands thèmes
+
+### La survie
+
+Croc-Blanc doit trouver de la nourriture et éviter les dangers.
+
+**Exemple :** lorsqu’il est petit, il apprend que certains animaux sont des proies et que d’autres peuvent le tuer.
+
+### La peur
+
+La peur aide parfois Croc-Blanc à rester prudent.
+
+**Exemple :** il apprend à se méfier de ce qu’il ne connaît pas.
+
+### La violence
+
+Le monde du roman peut être très brutal.
+
+**Exemple :** Beauty-Smith utilise Croc-Blanc dans des combats.
+
+### La confiance
+
+Croc-Blanc ne fait pas facilement confiance.
+
+**Exemple :** Weedon Scott doit longtemps lui montrer qu’il ne veut pas le frapper.
+
+### L’apprentissage
+
+Croc-Blanc change continuellement grâce à ce qu’il vit.
+
+**Exemple :** en Californie, il apprend qu’il ne doit pas attaquer les animaux de la maison.
+
+### L’affection
+
+La gentillesse de Scott permet à Croc-Blanc de découvrir une relation nouvelle.
+
+**Exemple :** il recherche progressivement la présence et les caresses de son maître.
+
+## Les mots à connaître
+
+* **Wild :** mot anglais utilisé dans la traduction pour désigner la nature sauvage du Grand Nord.
+* **Tanière :** abri où vit un animal sauvage.
+* **Meute :** groupe de loups vivant ou chassant ensemble.
+* **Attelage :** ensemble d’animaux attachés à un véhicule, ici un traîneau.
+* **Traîneau :** véhicule qui glisse sur la neige ou la glace.
+* **Famine :** manque très grave de nourriture.
+* **Domestiquer :** habituer un animal à vivre avec les humains.
+* **Instinct :** comportement naturel qui ne doit pas être appris comme une leçon.
+* **Paria :** personne ou animal rejeté par les autres.
+* **Indomptable :** qui semble impossible à maîtriser.
+
+## Ce que le livre peut nous apprendre
+
+*Croc-Blanc* montre que les expériences vécues influencent profondément le comportement. Croc-Blanc devient agressif quand il est attaqué et maltraité ; il commence à changer lorsqu’il rencontre quelqu’un qui agit autrement.
+
+Le livre permet donc de réfléchir à plusieurs questions :
+
+* Peut-on juger un animal uniquement sur son comportement ?
+* Quelle différence y a-t-il entre dresser par la peur et éduquer par la confiance ?
+* Comment un être apprend-il les règles de son environnement ?
+* La nature est-elle plus violente que les humains ?
+
+Le roman ne donne pas une petite « morale » unique : il montre surtout une transformation.
+
+## Questions de compréhension
+
+1. Où Croc-Blanc naît-il ?
+2. Qui est Kiche ?
+3. Pourquoi Croc-Blanc devient-il solitaire ?
+4. Qui utilise Croc-Blanc dans des combats ?
+5. Qui sauve Croc-Blanc ?
+6. Pourquoi Croc-Blanc a-t-il d’abord peur de la main de Scott ?
+7. Quel grand changement se produit lorsqu’il arrive en Californie ?
+8. Que montre son comportement lors de l’attaque de Jim Hall ?
+
+### Réponses attendues
+
+1. Dans une tanière du Grand Nord.
+2. Sa mère.
+3. Il est notamment rejeté et harcelé par les autres chiens, surtout Lip-Lip.
+4. Beauty-Smith.
+5. Weedon Scott, aidé de Matt.
+6. Parce qu’il a appris que la main humaine peut frapper ou faire souffrir.
+7. Il doit apprendre à vivre dans une maison et à respecter de nouvelles règles.
+8. Il est devenu profondément attaché à la famille Scott et la protège au risque de mourir.
+
+## Mon avis sur le livre
+
+> J’ai trouvé *Croc-Blanc* [intéressant / difficile / émouvant / passionnant] parce que [raison]. Le moment qui m’a le plus marqué est [moment], car [explication]. J’ai particulièrement aimé / moins aimé [élément] parce que [raison].
+
+Ce modèle doit être personnalisé par l’élève.
+
+## Ce que je dois retenir
+
+* Croc-Blanc est un chien-loup.
+* Il naît dans le Grand Nord.
+* Il apprend d’abord à survivre dans la nature.
+* Les mauvais traitements le rendent très agressif.
+* Beauty-Smith l’utilise pour des combats.
+* Weedon Scott le sauve et gagne sa confiance.
+* Croc-Blanc apprend à vivre avec une famille.
+* Le roman parle surtout de survie, d’apprentissage, de violence et de confiance.
+
+---
+
+# Fiche 2 — Enseignement secondaire inférieur
+
+## Niveau scolaire
+
+* **Belgique francophone :** 1re à 3e années de l’enseignement secondaire, traditionnellement regroupées sous l’appellation de secondaire inférieur.
+* **Années principalement concernées :** surtout 1re et 2e secondaire ; exploitation plus analytique possible en 3e.
+* **France :** collège.
+* **Classes françaises approximativement concernées :** 6e à 4e, avec une pertinence particulière en 6e-5e.
+* **Repère documenté :** Gallimard propose précisément *Croc-Blanc* dans sa collection Folio+Collège avec des ressources pour la 6e et la 5e. ([Cercle Enseignement][7])
+* **Niveau de lecture conseillé :** lecteur intermédiaire.
+* **Difficulté :** moyenne dans une traduction moderne ; moyenne à assez élevée dans l’EPUB analysé en raison de la langue de 1923.
+
+## Présentation du livre
+
+* **Titre :** *Croc-Blanc*
+* **Titre original :** *White Fang*
+* **Auteur :** Jack London
+* **Première publication :** 1906.
+* **Genre :** roman d’aventures.
+* **Sous-genre :** récit animalier et roman d’apprentissage.
+* **Contexte utile :** ruée vers l’or du Klondike et expérience personnelle de Jack London dans le Yukon.
+* **Sujet principal :** la formation progressive d’un chien-loup soumis successivement aux lois de la nature, à la domination humaine, à la cruauté puis à l’affection.
+
+## Résumé structuré
+
+### Situation de départ
+
+Deux hommes, Henry et Bill, traversent le Grand Nord avec un traîneau pendant qu’une meute de loups affamés les suit.
+
+### Premier basculement
+
+La narration abandonne progressivement les hommes pour suivre la louve Kiche, puis son louveteau gris.
+
+### Développement
+
+Le louveteau découvre le monde extérieur et apprend par essais, erreurs, douleur et observation. Il rencontre ensuite des humains. Kiche reconnaît Castor-Gris et le louveteau reçoit le nom de Croc-Blanc.
+
+### Principaux obstacles et conflits
+
+Croc-Blanc doit affronter :
+
+* la faim ;
+* les prédateurs ;
+* Lip-Lip et les autres chiens ;
+* la domination humaine ;
+* les conditions du travail de chien de traîneau ;
+* la cruauté de Beauty-Smith ;
+* les combats organisés.
+
+### Moment décisif
+
+Lors d’un combat contre le bouledogue Cherokee, Croc-Blanc manque de mourir. Weedon Scott et Matt interviennent.
+
+### Deuxième transformation
+
+Scott cherche à gagner la confiance du chien-loup sans utiliser la brutalité. Croc-Blanc découvre progressivement une relation humaine fondée sur l’affection.
+
+### Dénouement
+
+En Californie, il apprend les règles de la vie domestique. Lorsque Jim Hall attaque la maison des Scott, Croc-Blanc défend la famille et est grièvement blessé.
+
+### Sens de la fin
+
+Sa survie et son repos final auprès de Collie et de leurs petits symbolisent l’aboutissement de son adaptation : il n’a pas perdu toute sa nature sauvage, mais il a trouvé une place où sa force n’est plus entretenue par la haine.
+
+## Personnages
+
+### Croc-Blanc
+
+* **Rôle :** personnage principal.
+* **Caractère :** intelligent, prudent, rapide, solitaire, extrêmement adaptable.
+* **Motivations :** d’abord survivre ; ensuite éviter la douleur ; finalement rester auprès de Scott.
+* **Relations :** Kiche, Castor-Gris, Lip-Lip, Beauty-Smith, Weedon Scott, Matt, Collie.
+* **Évolution :** animal sauvage → animal soumis → paria agressif → combattant → animal rééduqué → protecteur domestique.
+* **Importance :** son évolution permet au roman d’étudier l’influence du milieu et de l’expérience sur le comportement.
+
+### Kiche
+
+* **Rôle :** mère de Croc-Blanc.
+* **Caractère :** protectrice, expérimentée, capable de vivre dans le monde sauvage comme auprès des humains.
+* **Motivation :** survivre et protéger sa portée.
+* **Importance :** elle constitue le premier lien entre le monde sauvage et le monde domestique.
+
+### Castor-Gris
+
+* **Rôle :** premier maître de Croc-Blanc.
+* **Relation avec lui :** fondée sur la domination et l’obéissance davantage que sur l’affection.
+* **Importance :** il introduit Croc-Blanc dans le monde des lois humaines.
+
+### Lip-Lip
+
+* **Rôle :** principal adversaire du jeune Croc-Blanc dans le camp.
+* **Importance :** son harcèlement contribue à l’isolement du héros.
+
+### Beauty-Smith
+
+* **Rôle :** propriétaire cruel et exploitant.
+* **Motivation :** tirer profit de la férocité de Croc-Blanc.
+* **Importance :** il représente l’usage destructeur que l’être humain peut faire de son pouvoir sur l’animal.
+
+### Weedon Scott
+
+* **Rôle :** sauveteur puis maître de Croc-Blanc.
+* **Caractère :** patient, ferme, compatissant.
+* **Motivation :** sauver puis réhabiliter l’animal.
+* **Importance :** sa méthode inverse celle de Beauty-Smith : il remplace la peur par la confiance.
+
+### Matt
+
+* **Rôle :** conducteur de chiens et auxiliaire de Scott.
+* **Importance :** il participe au sauvetage et observe les progrès de Croc-Blanc.
+
+### Collie
+
+* **Rôle :** chienne de la famille Scott.
+* **Évolution de la relation :** d’abord hostile au chien-loup, elle devient finalement sa partenaire.
+
+### Jim Hall
+
+* **Rôle :** évadé de prison qui veut se venger du juge Scott.
+* **Importance :** son histoire crée un parallèle troublant avec Croc-Blanc : la violence sociale a aussi contribué à transformer cet homme en être brutal.
+
+## Cadre de l’histoire
+
+* **Lieux :** Grand Nord ; camp autochtone ; Fort Yukon ; Californie ; Sierra-Vista.
+* **Époque :** fin du XIXe siècle.
+* **Durée exacte de l’histoire :** non explicitement chiffrée dans l’EPUB.
+* **Importance du cadre :** fondamentale. Croc-Blanc n’agit pas de la même manière dans le Wild, dans le camp, chez Beauty-Smith ou à Sierra-Vista, car chaque milieu possède ses propres règles.
+
+## Narrateur et point de vue
+
+Le narrateur ne participe pas à l’histoire : il est **hétérodiégétique**.
+
+La **focalisation** est souvent interne à Croc-Blanc. Cela signifie que le lecteur accède principalement au monde à travers ce que l’animal perçoit et apprend.
+
+Cette technique permet par exemple de présenter les humains comme des « dieux » : Croc-Blanc ne connaît pas leur technologie ni leurs institutions, mais il observe qu’ils commandent, fabriquent le feu et contrôlent son existence.
+
+## Thèmes
+
+### 1. Nature et survie
+
+Dans la première partie, la nature impose ses lois : froid, faim, chasse et prédation.
+
+Le chapitre « La loi de la viande » résume cette vision par la formule :
+
+> « La loi était mange ou sois mangé. »
+
+Cette citation est vérifiée dans le texte de l’EPUB fourni.
+
+### 2. Milieu et apprentissage
+
+Croc-Blanc n’est jamais figé. Son comportement résulte en partie de ce qu’il apprend.
+
+Le harcèlement de Lip-Lip développe sa méfiance ; les mauvais traitements de Beauty-Smith renforcent sa violence ; Scott produit progressivement l’effet inverse.
+
+### 3. Sauvage et domestique
+
+Le roman refuse une opposition trop simple. Le Wild est violent, mais certains humains le sont davantage encore. Inversement, la domestication peut être oppression ou protection selon les maîtres.
+
+### 4. Domination
+
+Les humains sont perçus comme des « dieux » parce qu’ils disposent d’un pouvoir que l’animal ne comprend pas complètement.
+
+### 5. Violence et affection
+
+Beauty-Smith et Scott représentent deux manières opposées d’exercer un pouvoir sur Croc-Blanc :
+
+* la violence fabrique davantage de violence ;
+* la patience rend possible une nouvelle relation.
+
+### 6. Adaptation
+
+C’est probablement la faculté essentielle de Croc-Blanc. Il survit parce qu’il observe, apprend et modifie son comportement.
+
+## Construction de l’œuvre
+
+L’édition originale comporte cinq parties, même si l’EPUB les a supprimées de sa table des matières visible. ([Wikisource][4])
+
+La progression peut être résumée ainsi :
+
+1. le Wild avant Croc-Blanc ;
+2. naissance et apprentissage animal ;
+3. découverte des humains ;
+4. exploitation et rééducation ;
+5. adaptation au monde domestique.
+
+La structure reproduit donc le trajet du personnage.
+
+## Style de l’auteur
+
+### Descriptions
+
+London construit fortement les paysages, notamment le froid, la neige, le silence et l’immensité.
+
+L’ouverture de l’édition analysée contient par exemple cette brève formule :
+
+> « C’était le Wild. »
+
+Le terme devient presque un nom propre désignant une puissance qui dépasse les individus.
+
+### Vocabulaire sensoriel
+
+Le récit insiste sur :
+
+* les odeurs ;
+* les sons ;
+* la faim ;
+* la douleur ;
+* les mouvements ;
+* le toucher.
+
+Cette approche correspond au personnage focal : un animal perçoit son environnement autrement qu’un narrateur humain ordinaire.
+
+### Rythme
+
+* descriptions lentes lors de la découverte du monde ;
+* phrases plus dynamiques pendant les combats ;
+* répétitions servant à montrer l’apprentissage.
+
+### Dialogues
+
+Ils deviennent plus présents lorsque les humains prennent une place importante, mais Croc-Blanc ne parle évidemment jamais : ses attitudes et réactions prennent la place de la parole.
+
+## Symboles ou éléments importants
+
+### Le feu
+
+Le feu symbolise le pouvoir humain. Croc-Blanc constate que les humains peuvent produire quelque chose que lui ne peut ni comprendre ni maîtriser.
+
+### La main
+
+Elle possède deux significations opposées :
+
+* main qui frappe ;
+* main qui nourrit et caresse.
+
+Scott doit donc transformer la signification même de ce geste pour Croc-Blanc.
+
+### Les crocs
+
+Ils représentent la force, la défense et les lois du monde sauvage, mais aussi l’arme dont Beauty-Smith fait un spectacle commercial.
+
+### Le Nord et le Sud
+
+* **Nord :** faim, froid, compétition, rudesse.
+* **Sud :** sécurité matérielle et domestication.
+
+Cette opposition n’est cependant pas absolue : la violence humaine existe dans les deux univers.
+
+## Passages importants
+
+### 1. Chapitre 1 — « La piste de la viande »
+
+* **Situation :** traversée du Wild par Henry et Bill.
+* **Importance :** présentation du milieu comme force hostile.
+* **À dire lors d’un contrôle :** le décor n’est pas seulement un arrière-plan ; il détermine les comportements.
+
+### 2. Chapitre 7 — « Le mur du monde »
+
+* **Situation :** première sortie importante du louveteau.
+* **Importance :** naissance de sa connaissance du monde.
+* **À analyser :** découverte progressive par les sens.
+
+### 3. Chapitre 8 — « La loi de la viande »
+
+* **Situation :** apprentissage de la prédation.
+* **Importance :** formulation du principe de survie.
+* **À analyser :** vision naturaliste de la vie.
+
+### 4. Chapitre 9 — « Les faiseurs de feu »
+
+* **Situation :** rencontre avec les humains.
+* **Importance :** passage vers un nouvel ordre.
+* **À analyser :** point de vue animal sur la puissance humaine.
+
+### 5. Chapitres 16 à 18 — Beauty-Smith et les combats
+
+* **Situation :** Croc-Blanc est exploité.
+* **Importance :** sommet de sa transformation par la haine.
+* **À analyser :** responsabilité humaine dans la violence animale.
+
+### 6. Chapitre 20 — « Le maître d’amour »
+
+* **Situation :** Scott gagne sa confiance.
+* **Importance :** inversion de l’apprentissage précédent.
+* **À analyser :** affection comme force de transformation.
+
+### 7. Chapitre 23 — « Le domaine du dieu »
+
+* **Situation :** adaptation à Sierra-Vista.
+* **Importance :** Croc-Blanc doit apprendre une société beaucoup plus complexe.
+* **À analyser :** intelligence et capacité d’adaptation.
+
+### 8. Chapitre 25 — « Le sommeil du loup »
+
+* **Situation :** attaque de Jim Hall puis guérison de Croc-Blanc.
+* **Importance :** accomplissement de son intégration.
+* **À analyser :** parallélisme entre violence animale et violence sociale.
+
+## Vocabulaire littéraire utile
+
+* **Narrateur hétérodiégétique :** narrateur qui ne participe pas à l’histoire.
+  **Application :** celui de *Croc-Blanc* raconte de l’extérieur.
+
+* **Focalisation interne :** récit limité à ce qu’un personnage perçoit ou comprend.
+  **Application :** une grande partie du monde est présentée selon les perceptions de Croc-Blanc.
+
+* **Personnification :** manière de présenter une chose ou une abstraction comme un être.
+  **Application :** le Wild est parfois évoqué presque comme une puissance vivante.
+
+* **Champ lexical :** ensemble de mots appartenant à un même domaine.
+  **Application :** froid, faim, crocs, sang, viande, chasse créent les univers de la survie.
+
+* **Roman d’apprentissage :** récit où un personnage se transforme par ses expériences.
+  **Application :** Croc-Blanc apprend successivement les lois du Wild et celles des humains.
+
+* **Naturalisme :** courant qui insiste notamment sur l’influence du milieu, des conditions matérielles et des déterminismes.
+  **Application :** le comportement de Croc-Blanc évolue fortement selon son environnement.
+
+## Questions de compréhension et d’analyse
+
+1. Pourquoi le roman ne commence-t-il pas directement par Croc-Blanc ?
+2. Que signifie la « loi de la viande » ?
+3. Pourquoi Croc-Blanc devient-il plus solitaire que les autres chiens ?
+4. Comment voit-il les humains lors de sa première rencontre avec eux ?
+5. Pourquoi Beauty-Smith réussit-il à rendre Croc-Blanc encore plus violent ?
+6. Quelle différence fondamentale oppose Beauty-Smith et Weedon Scott ?
+7. Pourquoi la focalisation sur un animal est-elle intéressante ?
+8. Comment Croc-Blanc prouve-t-il sa capacité d’adaptation en Californie ?
+9. Pourquoi Jim Hall peut-il être rapproché de Croc-Blanc ?
+10. La fin signifie-t-elle que toute la nature sauvage de Croc-Blanc a disparu ?
+
+### Éléments de réponse
+
+1. Pour présenter d’abord le Wild et les forces qui ont façonné le personnage avant sa naissance.
+2. La vie implique la prédation : manger ou risquer d’être mangé.
+3. Les attaques de Lip-Lip et du groupe l’obligent à vivre seul et à développer des techniques de défense.
+4. Comme des êtres extrêmement puissants, presque divins.
+5. Il l’enchaîne, l’humilie, le provoque et exploite son agressivité.
+6. Le premier utilise la peur ; le second construit la confiance.
+7. Elle oblige le lecteur à redécouvrir le monde humain depuis une perception non humaine.
+8. Il apprend à respecter les animaux domestiques et les règles de la maison.
+9. Tous deux sont présentés comme des êtres dont la violence a été aggravée par le traitement qu’ils ont subi.
+10. Non. Son instinct et sa puissance demeurent, mais ils s’intègrent à de nouvelles règles.
+
+## Préparation d’une présentation orale
+
+1. **Présenter le livre :** Jack London, *White Fang*, 1906.
+2. **Situer l’histoire :** Grand Nord, Klondike, puis Californie.
+3. **Résumer :** naissance sauvage → humains → combats → sauvetage → domestication.
+4. **Présenter trois personnages :** Croc-Blanc, Beauty-Smith, Weedon Scott.
+5. **Expliquer un thème :** influence de la violence et de l’affection.
+6. **Présenter une scène :** le combat contre Cherokee ou la première caresse de Scott.
+7. **Expliquer le point de vue :** perception du monde par Croc-Blanc.
+8. **Donner son avis personnel avec deux arguments.**
+
+## Avis personnel
+
+> *Croc-Blanc* m’a intéressé parce que l’histoire ne présente pas l’animal comme simplement « gentil » ou « méchant ». Son comportement change selon ce qu’il vit. J’ai particulièrement trouvé intéressante l’opposition entre Beauty-Smith et Weedon Scott : les deux hommes ont du pouvoir sur Croc-Blanc, mais leurs méthodes produisent des résultats contraires. Certains passages de la traduction ancienne sont cependant assez difficiles et les scènes de combats peuvent être dures. L’aventure reste efficace parce que l’évolution du personnage donne une vraie progression au récit.
+
+Ce modèle doit être personnalisé.
+
+## Ce qu’il faut retenir
+
+* Jack London, écrivain américain, 1876-1916.
+* *White Fang* paraît en 1906.
+* Le roman appartient au récit d’aventures et au récit animalier.
+* Croc-Blanc est le personnage central.
+* Le point de vue se rapproche souvent de ses perceptions.
+* Le milieu influence fortement son comportement.
+* Beauty-Smith développe sa violence.
+* Weedon Scott construit sa confiance.
+* Thèmes essentiels : survie, violence, adaptation, sauvage/domestique, relation homme-animal.
+* L’œuvre s’inscrit dans le naturalisme américain.
+
+---
+
+# Fiche 3 — Enseignement secondaire supérieur
+
+## Niveau scolaire
+
+* **Belgique francophone :** enseignement secondaire supérieur.
+* **Années principalement concernées :** 4e à 6e secondaire.
+* **Repère belge :** particulièrement exploitable en 5e-6e pour un travail argumentatif ou une préparation au CESS, à condition de dépasser le simple résumé d’aventures.
+* **France :** lycée.
+* **Classes françaises approximativement concernées :** seconde à terminale.
+* **Repère français :** exploitable pour l’analyse narrative, le commentaire, l’argumentation et les liens entre littérature et idées.
+* **Difficulté de lecture :** moyenne.
+* **Difficulté d’analyse :** moyenne à élevée, car l’apparente simplicité du récit animalier dissimule des problématiques complexes de naturalisme, d’anthropomorphisme, de domination, d’apprentissage et de civilisation.
+
+## Introduction
+
+Publié en 1906 après une première diffusion en feuilleton dans *Outing Magazine*, *White Fang* appartient à la période où Jack London est déjà un écrivain reconnu de la littérature américaine. London avait lui-même séjourné dans le Yukon pendant la ruée vers l’or de 1897-1898, expérience qui nourrit durablement ses récits du Grand Nord. ([PagePlace][3])
+
+Le roman reprend l’univers de *The Call of the Wild* mais inverse largement sa trajectoire. Alors que Buck s’éloigne de la civilisation pour rejoindre le monde sauvage, Croc-Blanc naît dans le Wild et se rapproche progressivement des humains. Cette structure permet à London d’interroger la frontière entre nature et culture, instinct et apprentissage, violence et socialisation. L’œuvre appartient au naturalisme américain et fait de l’animal un véritable centre de perception du monde. ([Cambridge][6])
+
+## Résumé approfondi
+
+### I. Le Wild avant le héros
+
+Les premiers chapitres suivent Henry et Bill, encerclés par une meute. Cette ouverture remplit une fonction essentielle : avant même la naissance de Croc-Blanc, le lecteur apprend les règles du monde qui va le produire.
+
+Le Wild est caractérisé par :
+
+* le froid ;
+* la faim ;
+* la mort ;
+* la prédation ;
+* l’indifférence du milieu.
+
+### II. Naissance et formation naturelle
+
+Kiche met bas. Le jeune louveteau gris apprend progressivement à distinguer :
+
+* connu et inconnu ;
+* danger et sécurité ;
+* proie et prédateur ;
+* force et faiblesse.
+
+Le chapitre « La loi de la viande » transforme ses expériences en principe général de la vie biologique.
+
+### III. Entrée dans l’ordre humain
+
+La rencontre avec Castor-Gris constitue un changement de système. La domination n’est plus seulement biologique : elle devient sociale.
+
+Les humains sont perçus comme des « dieux » parce qu’ils disposent :
+
+* du feu ;
+* des outils ;
+* des armes ;
+* du pouvoir de posséder ;
+* de la capacité de punir.
+
+Croc-Blanc apprend donc une deuxième série de lois.
+
+### IV. Fabrication de la violence
+
+Lip-Lip et le groupe condamnent Croc-Blanc à l’isolement. Il perfectionne alors des comportements de combat basés sur :
+
+* la rapidité ;
+* l’attaque préventive ;
+* le refus du corps-à-corps prolongé ;
+* la méfiance.
+
+Beauty-Smith exploite ensuite exactement ce produit de l’environnement. Il ne crée pas de toutes pièces la puissance de Croc-Blanc, mais il transforme ses aptitudes en spectacle violent.
+
+### V. Le basculement : Weedon Scott
+
+Après le combat contre Cherokee, Scott récupère un animal dont l’apprentissage antérieur associe la main humaine à la contrainte et à la douleur.
+
+La rééducation ne peut donc être instantanée. Elle consiste en une réinterprétation progressive des signes :
+
+* la main n’est plus nécessairement une menace ;
+* la proximité n’annonce pas nécessairement une attaque ;
+* l’obéissance peut s’accompagner d’attachement.
+
+### VI. La Californie
+
+Sierra-Vista est un milieu radicalement différent. Croc-Blanc doit apprendre une société plus complexe que celle du camp ou du chenil.
+
+Il doit notamment comprendre :
+
+* quels animaux sont protégés ;
+* quels humains appartiennent au groupe ;
+* quelle violence est interdite ;
+* quels comportements sont attendus.
+
+La domestication apparaît ainsi moins comme une suppression de l’instinct que comme une multiplication des règles apprises.
+
+### VII. Jim Hall et le dénouement
+
+Jim Hall est un personnage humain particulièrement significatif. Le narrateur insiste sur la manière dont les institutions et la violence carcérale l’ont rendu plus brutal.
+
+Ce dernier épisode crée donc un miroir entre l’homme et l’animal :
+
+* Croc-Blanc a été transformé par Beauty-Smith ;
+* Jim Hall a été transformé par une société punitive.
+
+Croc-Blanc, réhabilité par Scott, défend finalement cette société familiale contre Hall. Il est presque tué mais survit.
+
+La dernière image, auprès de Collie et des petits, réunit deux dimensions qui semblaient incompatibles au début : **le loup et la famille, l’instinct et l’appartenance, le Wild et le foyer.**
+
+## Personnages principaux
+
+### Croc-Blanc
+
+* **Fonction dans l’œuvre :** centre narratif et expérimental du roman.
+* **Caractérisation :** chien-loup intelligent, extraordinairement adaptable, méfiant et puissant.
+* **Motivations initiales :** survie, nourriture, sécurité.
+* **Conflits :** nature, autres chiens, humains dominateurs, apprentissage de nouvelles règles.
+* **Relations :** chacune structure une étape de son développement.
+* **Évolution :** sauvage → soumis → paria → combattant → animal capable d’attachement → protecteur.
+* **Valeur symbolique possible :** figure de la plasticité du vivant sous l’influence du milieu.
+* **Rôle général :** permet d’examiner la frontière entre comportement inné et acquis.
+
+### Kiche
+
+* **Fonction :** mère et première éducatrice.
+* **Caractérisation :** à la frontière du chien domestique et du loup sauvage.
+* **Valeur dans l’œuvre :** elle annonce biologiquement et symboliquement la double appartenance de Croc-Blanc.
+
+### Castor-Gris
+
+* **Fonction :** premier maître.
+* **Relation :** domination sans véritable relation affective.
+* **Rôle conceptuel :** représente l’ordre humain d’abord perçu comme puissance.
+
+### Beauty-Smith
+
+* **Fonction :** antagoniste.
+* **Caractérisation :** cruel, manipulateur et intéressé par le profit.
+* **Motivation :** exploiter Croc-Blanc.
+* **Valeur :** démontre que la « sauvagerie » n’est pas réservée aux animaux.
+
+### Weedon Scott
+
+* **Fonction :** second grand agent de transformation.
+* **Caractérisation :** patient, ferme, persévérant.
+* **Motivation :** réhabiliter l’animal.
+* **Valeur :** son comportement démontre expérimentalement que l’environnement relationnel peut modifier les conduites.
+
+### Jim Hall
+
+* **Fonction :** antagoniste final et double humain possible de Croc-Blanc.
+* **Caractérisation :** violent et dangereux.
+* **Particularité :** le narrateur ne le réduit pas à une nature mauvaise ; il insiste sur les mauvais traitements institutionnels qu’il a subis.
+* **Valeur :** son histoire étend à l’être humain la réflexion naturaliste sur l’effet du milieu.
+
+## Analyse des thèmes
+
+### 1. Déterminisme et plasticité
+
+Le roman associe deux propositions qui pourraient sembler contradictoires :
+
+* Croc-Blanc hérite de certaines dispositions ;
+* l’expérience modifie radicalement leur expression.
+
+Il n’est donc ni une page blanche ni un être entièrement déterminé par sa naissance.
+
+Le personnage devient un moyen d’observer l’interaction entre :
+
+* hérédité ;
+* environnement ;
+* apprentissage ;
+* répétition ;
+* adaptation.
+
+### 2. Nature et civilisation
+
+Une lecture superficielle pourrait résumer l’œuvre ainsi :
+
+> nature sauvage → civilisation bienveillante.
+
+Le texte est plus complexe.
+
+Le Wild tue par nécessité biologique, alors que certains humains organisent la souffrance pour :
+
+* le plaisir ;
+* l’argent ;
+* la domination.
+
+Beauty-Smith rend ainsi problématique l’idée que la civilisation serait automatiquement plus morale que la nature.
+
+### 3. Violence
+
+Le roman montre plusieurs formes de violence :
+
+* prédation naturelle ;
+* compétition animale ;
+* domination sociale ;
+* maltraitance ;
+* violence commerciale des combats ;
+* violence pénale et carcérale avec Jim Hall.
+
+La question intéressante n’est donc pas seulement « qui est violent ? », mais **quelle institution, quel milieu ou quelle nécessité produit cette violence ?**
+
+### 4. Domestication
+
+La domestication est présentée comme un processus d’apprentissage.
+
+Croc-Blanc doit reconnaître :
+
+* le propriétaire ;
+* les limites ;
+* les interdictions ;
+* les hiérarchies ;
+* les comportements acceptables.
+
+Il ne devient pas simplement « gentil ». Il apprend un système de règles plus complexe.
+
+### 5. Pouvoir et divinité
+
+Le vocabulaire religieux appliqué aux humains est l’un des procédés les plus frappants du roman.
+
+Pour le chien-loup, les hommes sont des « dieux » parce qu’ils possèdent une puissance matériellement inexplicable.
+
+Kenneth K. Brandt souligne précisément cette « théologie » naturaliste dans son étude de *The Call of the Wild* et *White Fang*. ([Cambridge][6])
+
+La métaphore permet à London :
+
+* de décentrer le regard humain ;
+* de montrer la disproportion de pouvoir entre homme et animal ;
+* de traduire une perception animale sans lui attribuer une religion abstraite.
+
+### 6. Amour, affection et confiance
+
+Le chapitre « Le maître d’amour » constitue un renversement.
+
+Dans la traduction analysée, Croc-Blanc perçoit finalement Scott comme :
+
+> « un dieu d’amour »
+
+La formule ne signifie pas qu’il conceptualise philosophiquement l’amour. Elle traduit pour le lecteur une expérience radicalement nouvelle : le pouvoir humain peut produire du bien-être plutôt que de la douleur.
+
+## Analyse narrative
+
+### Narrateur
+
+Narrateur extérieur, hétérodiégétique.
+
+### Focalisation
+
+Variable, mais très largement interne à Croc-Blanc après les premiers chapitres.
+
+### Effet de la focalisation animale
+
+Elle transforme les objets ordinaires en énigmes.
+
+Pour un humain :
+
+* le feu est un outil ;
+* une maison est une construction ;
+* un maître est une personne.
+
+Pour Croc-Blanc, ils doivent être compris progressivement à partir de leurs effets.
+
+### Temporalité
+
+Le récit est principalement chronologique.
+
+Les étapes du temps correspondent à la croissance et à l’apprentissage de Croc-Blanc.
+
+### Ellipses
+
+Le narrateur accélère certaines périodes de croissance ou de travail afin de concentrer le récit sur les expériences qui modifient réellement le personnage.
+
+### Rythme
+
+* ralentissements lors de nouveaux apprentissages ;
+* accélérations dans les combats ;
+* répétitions lorsqu’un comportement devient une habitude.
+
+### Structure
+
+L’édition originale en cinq parties construit une progression sémantique explicite :
+
+**Wild → Born of the Wild → Gods of the Wild → Superior Gods → The Tame.** ([Wikisource][4])
+
+L’EPUB français analysé efface cette architecture supérieure mais conserve les 25 chapitres correspondants.
+
+## Analyse stylistique
+
+### Niveau de langue
+
+La traduction Gruyer–Postif de 1923 utilise un français plus ancien que les traductions contemporaines :
+
+* tournures aujourd’hui moins courantes ;
+* vocabulaire parfois soutenu ;
+* emplois récurrents du mot anglais « Wild ».
+
+Cela explique en partie pourquoi cette édition peut sembler plus difficile à un jeune lecteur actuel.
+
+### Champs lexicaux
+
+Les champs lexicaux dominants concernent :
+
+* le froid ;
+* la faim ;
+* la viande ;
+* les crocs ;
+* le sang ;
+* la peur ;
+* la force ;
+* la domination.
+
+Ils inscrivent les idées du roman dans des sensations concrètes.
+
+### Personnification
+
+Le Wild est parfois traité presque comme une puissance autonome.
+
+L’ouverture :
+
+> « C’était le Wild. »
+
+condense cette conception du milieu.
+
+### Comparaisons animales et humaines
+
+L’une des stratégies les plus intéressantes consiste à rapprocher sans cesse :
+
+* hommes et animaux ;
+* domination sociale et prédation ;
+* apprentissage humain et dressage.
+
+Jim Hall donne à ce procédé sa forme la plus claire.
+
+### Description
+
+Les paysages ne sont pas décoratifs. Ils créent les conditions physiques qui déterminent l’action.
+
+### Ironie potentielle
+
+Le mot « dieux » produit une forme d’ironie de perspective : le lecteur sait que les humains sont ordinaires, alors que le chien-loup les perçoit comme des êtres presque tout-puissants.
+
+### Réalisme et naturalisme
+
+London cherche moins à représenter un animal sentimental qu’à montrer :
+
+* ses perceptions ;
+* ses conditionnements ;
+* ses réactions ;
+* son adaptation.
+
+Cette volonté fut précisément l’un des enjeux de sa polémique avec Roosevelt. ([National Endowment for the Arts][10])
+
+## Symboles, motifs et oppositions
+
+### Wild / monde domestique
+
+Opposition structurante du roman.
+
+### Froid / chaleur
+
+Le froid accompagne le Wild ; la chaleur du foyer accompagne progressivement la sécurité.
+
+### Faim / abondance
+
+La faim commande la première partie de l’existence ; l’abondance domestique modifie ensuite les priorités.
+
+### Crocs / main
+
+* crocs : puissance animale ;
+* main : puissance humaine.
+
+Mais la main peut être violence ou caresse.
+
+### Haine / amour
+
+Les titres « Le règne de la haine » et « Le maître d’amour » constituent presque une opposition programmatique.
+
+### Solitude / groupe
+
+Lip-Lip chasse Croc-Blanc vers l’isolement ; Scott le réintègre progressivement à une communauté.
+
+### Nord / Sud
+
+Le déplacement géographique correspond à une transformation sociale, mais non à une simple opposition morale.
+
+## Portée de l’œuvre
+
+### Dimension sociale
+
+Le roman montre les conséquences de rapports de domination qui peuvent produire eux-mêmes les comportements qu’ils prétendent contrôler.
+
+Cette logique vaut :
+
+* pour Croc-Blanc ;
+* pour Jim Hall.
+
+### Dimension philosophique
+
+Le lecteur est conduit à s’interroger sur la part respective :
+
+* de l’instinct ;
+* du milieu ;
+* de l’apprentissage ;
+* de la liberté.
+
+### Dimension morale
+
+Le texte oppose clairement différentes formes de traitement de l’animal, mais sans transformer son héros en créature idéalement douce.
+
+### Rapport avec son époque
+
+Les débats sur Darwin, le naturalisme et l’animalité occupent une place importante dans l’univers intellectuel de London. La critique universitaire contemporaine étudie également son œuvre sous l’angle de l’impérialisme, de la race et du genre. ([Cambridge][25])
+
+Les représentations des peuples autochtones doivent par conséquent être replacées dans leur contexte historique. Certains termes et catégories de la traduction de 1923 sont aujourd’hui datés et appellent un accompagnement critique. Il serait inexact de les reprendre comme descriptions neutres contemporaines.
+
+### Raisons possibles de la postérité
+
+* protagoniste animal mémorable ;
+* récit d’aventures très lisible dans son principe ;
+* fortes scènes d’action ;
+* question universelle de la relation entre violence et éducation ;
+* dispositif narratif original ;
+* possibilités d’adaptation cinématographique ;
+* richesse de lecture au-delà du récit jeunesse.
+
+## Passages importants
+
+### Passage 1 — Ouverture du roman
+
+* **Situation :** Henry et Bill dans le Wild.
+* **Enjeu :** imposer le milieu avant les personnages.
+* **Procédés :** personnification, amplification, images de froid et de mort.
+* **Interprétation :** le milieu fonctionne comme une puissance déterminante.
+* **Utilisation :** commentaire sur le naturalisme et le paysage.
+
+### Passage 2 — « Le mur du monde »
+
+* **Situation :** première découverte de l’extérieur.
+* **Enjeu :** construction d’une conscience perceptive.
+* **Procédés :** focalisation animale, découverte graduelle.
+* **Interprétation :** le lecteur doit reconstruire le réel en même temps que le louveteau.
+* **Utilisation :** analyse du point de vue.
+
+### Passage 3 — « La loi de la viande »
+
+* **Situation :** apprentissage de la prédation.
+* **Enjeu :** formulation d’une loi générale du vivant.
+* **Procédés :** répétition, oppositions mangeur/mangé.
+* **Interprétation :** vision naturaliste de la survie.
+* **Utilisation :** dissertation sur nature et violence.
+
+### Passage 4 — « Les faiseurs de feu »
+
+* **Situation :** rencontre des humains.
+* **Enjeu :** émergence d’un nouveau pouvoir.
+* **Procédés :** focalisation, métaphore religieuse.
+* **Interprétation :** décentrement du regard anthropocentrique.
+* **Utilisation :** étude du vocabulaire des « dieux ».
+
+### Passage 5 — « Le règne de la haine »
+
+* **Situation :** Beauty-Smith entretient volontairement la férocité.
+* **Enjeu :** montrer la violence comme production sociale.
+* **Procédés :** accumulation des mauvais traitements, lexique de la haine.
+* **Interprétation :** l’homme fabrique en partie le « monstre » qu’il exhibe.
+* **Utilisation :** argument sur déterminisme et responsabilité.
+
+### Passage 6 — « Le maître d’amour »
+
+* **Situation :** rééducation par Scott.
+* **Enjeu :** démontrer la possibilité d’un nouvel apprentissage.
+* **Procédés :** inversion des gestes et du vocabulaire précédents.
+* **Interprétation :** même organisme, autre milieu, autre comportement.
+* **Utilisation :** comparaison avec Beauty-Smith.
+
+### Passage 7 — Jim Hall
+
+* **Situation :** présentation de l’évadé.
+* **Enjeu :** transposer la problématique du déterminisme à l’être humain.
+* **Procédés :** insistance sur les mauvais traitements et l’enfermement.
+* **Interprétation :** la société peut engendrer de la violence chez ceux qu’elle punit.
+* **Utilisation :** étude sociale et naturaliste.
+
+### Passage 8 — Le dénouement
+
+* **Situation :** Croc-Blanc guéri repose auprès de ses petits.
+* **Enjeu :** achever le trajet Wild → foyer.
+* **Procédés :** apaisement du rythme et opposition avec l’ouverture.
+* **Interprétation :** la force sauvage n’est pas détruite mais intégrée.
+* **Utilisation :** comparaison incipit/excipit.
+
+## Citations courtes utiles
+
+Les citations suivantes ont été vérifiées dans l’EPUB analysé.
+
+### 1.
+
+> « C’était le Wild. »
+
+* **Situation :** ouverture.
+* **Thème :** puissance de la nature.
+* **Intérêt :** le milieu devient presque un personnage.
+
+### 2.
+
+> « La loi était mange ou sois mangé. »
+
+* **Situation :** chapitre « La loi de la viande ».
+* **Thème :** survie.
+* **Intérêt :** formulation concise de la logique naturaliste du jeune animal.
+
+### 3.
+
+> « C’était un vrai dieu, un dieu d’amour »
+
+* **Situation :** relation avec Weedon Scott.
+* **Thème :** affection et domination.
+* **Intérêt :** renverse le vocabulaire religieux associé jusque-là au pouvoir humain.
+
+### 4.
+
+> « Voici le loup béni ! »
+
+* **Situation :** guérison finale.
+* **Thème :** intégration.
+* **Intérêt :** transforme symboliquement le statut du personnage dans la famille.
+
+## Problématiques
+
+1. **Comment le parcours de Croc-Blanc permet-il à Jack London d’interroger l’influence du milieu sur le comportement ?**
+2. **Dans quelle mesure *Croc-Blanc* remet-il en question l’opposition entre sauvagerie animale et civilisation humaine ?**
+3. **Comment la focalisation animale transforme-t-elle le regard du lecteur sur l’humanité ?**
+4. **La domestication de Croc-Blanc est-elle une soumission ou un apprentissage permettant une nouvelle forme de liberté ?**
+5. **Comment Jack London oppose-t-il la peur et l’affection comme deux modes de formation d’un être vivant ?**
+
+## Plans détaillés
+
+### Problématique 1 — Comment le parcours de Croc-Blanc permet-il à Jack London d’interroger l’influence du milieu sur le comportement ?
+
+#### I. Un être d’abord formé par le Wild
+
+**A. La faim comme nécessité fondamentale**
+
+* famine ;
+* chasse ;
+* « loi de la viande ».
+
+**B. L’apprentissage par expérience**
+
+* sortie de la tanière ;
+* douleur ;
+* essais et erreurs.
+
+**C. L’héritage biologique**
+
+* ascendance lupine et canine ;
+* instincts de prédation et de prudence.
+
+**Idée défendue :** Croc-Blanc possède des dispositions naturelles, mais celles-ci prennent sens dans un environnement.
+
+#### II. La société humaine amplifie certaines dispositions
+
+**A. Lip-Lip produit l’isolement**
+
+* exclusion ;
+* agressivité préventive.
+
+**B. Castor-Gris impose la soumission**
+
+* pouvoir ;
+* hiérarchie ;
+* obéissance.
+
+**C. Beauty-Smith transforme la violence en système**
+
+* humiliation ;
+* combats ;
+* exploitation économique.
+
+**Idée défendue :** la férocité de Croc-Blanc n’est pas seulement « naturelle » ; elle est partiellement fabriquée.
+
+#### III. Un nouveau milieu rend possible une nouvelle conduite
+
+**A. Scott change les règles relationnelles**
+
+* patience ;
+* absence de coups ;
+* caresse.
+
+**B. Sierra-Vista oblige à un apprentissage plus complexe**
+
+* poules ;
+* chiens ;
+* membres de la famille.
+
+**C. La fin confirme une transformation sans effacement de la puissance**
+
+* attaque de Jim Hall ;
+* protection de la famille ;
+* vie auprès des petits.
+
+**Idée défendue :** le roman privilégie moins un déterminisme rigide qu’une interaction constante entre dispositions et environnement.
+
+---
+
+### Problématique 2 — Dans quelle mesure *Croc-Blanc* remet-il en question l’opposition entre sauvagerie animale et civilisation humaine ?
+
+#### I. Le Wild apparaît d’abord comme le monde de la violence
+
+**A. Nature hostile**
+
+* froid ;
+* faim.
+
+**B. Prédation**
+
+* meute ;
+* lynx ;
+* « loi de la viande ».
+
+**C. Absence de morale humaine**
+
+* tuer est une nécessité de survie.
+
+#### II. La civilisation se révèle elle aussi violente
+
+**A. Harcèlement et domination**
+
+* camp ;
+* hiérarchies.
+
+**B. Beauty-Smith**
+
+* cruauté gratuite ;
+* spectacle.
+
+**C. Jim Hall**
+
+* brutalité carcérale ;
+* violence institutionnelle.
+
+**Idée défendue :** l’humanité ne possède aucun monopole automatique de la morale.
+
+#### III. Le roman propose une autre définition de la civilisation
+
+**A. Scott exerce un pouvoir différent**
+
+* force sans cruauté.
+
+**B. Croc-Blanc apprend la maîtrise**
+
+* règles domestiques ;
+* interdits.
+
+**C. La famille finale**
+
+* protection ;
+* attachement ;
+* intégration.
+
+**Idée défendue :** la véritable opposition ne passe peut-être pas entre nature et civilisation, mais entre violence destructrice et relation capable d’organiser la force autrement.
+
+## Questions d’évaluation
+
+### Connaissance et compréhension
+
+1. Dans quel contexte historique l’œuvre est-elle située ?
+2. Quelles sont les principales étapes de la vie de Croc-Blanc ?
+3. Quel rôle joue Lip-Lip ?
+4. Comment Beauty-Smith obtient-il Croc-Blanc ?
+5. Comment se termine le roman ?
+
+### Analyse
+
+6. Pourquoi peut-on parler de focalisation animale ?
+7. Quelle fonction remplit le vocabulaire religieux appliqué aux humains ?
+8. Comment Beauty-Smith et Scott forment-ils une opposition structurelle ?
+9. Pourquoi Jim Hall est-il plus qu’un simple « méchant » final ?
+10. Comment le déplacement du Nord vers la Californie accompagne-t-il la progression du récit ?
+
+### Questions nécessitant une réponse développée
+
+11. Croc-Blanc est-il naturellement violent ?
+12. Le roman défend-il réellement la supériorité de la civilisation sur la nature ?
+13. Pourquoi l’œuvre peut-elle être étudiée comme un roman naturaliste malgré son héros animal ?
+
+### Éléments attendus
+
+#### 11. Croc-Blanc est-il naturellement violent ?
+
+Bonne réponse :
+
+* reconnaître ses instincts et dispositions ;
+* rappeler la violence du Wild ;
+* montrer le rôle de Lip-Lip ;
+* analyser Beauty-Smith ;
+* comparer avec la transformation sous Scott ;
+* conclure en évitant les réponses absolues.
+
+#### 12. Civilisation et nature
+
+Bonne réponse :
+
+* nature violente par nécessité ;
+* hommes capables de cruauté volontaire ;
+* Beauty-Smith comme contre-exemple à une civilisation morale ;
+* Scott comme autre forme de relation humaine ;
+* Jim Hall et critique sociale ;
+* conclusion nuancée.
+
+#### 13. Naturalisme
+
+Bonne réponse :
+
+* influence du milieu ;
+* contraintes matérielles ;
+* hérédité ;
+* lutte pour l’existence ;
+* apprentissage ;
+* parallélisme final avec Jim Hall ;
+* rattachement de London au naturalisme américain documenté par la critique. ([Cambridge][25])
+
+## Préparation à l’oral
+
+* **Auteur :** Jack London, écrivain américain, 1876-1916.
+* **Œuvre :** *White Fang / Croc-Blanc*.
+* **Première publication :** 1906.
+* **Résumé :** un chien-loup passe du monde sauvage à la société humaine et subit différentes formes d’apprentissage avant de trouver sa place auprès de Weedon Scott.
+* **Trois thèmes :** milieu et apprentissage ; violence ; sauvage et civilisation.
+* **Deux caractéristiques stylistiques :** focalisation animale ; importance des champs lexicaux de la survie.
+* **Deux passages :** « La loi de la viande » ; « Le maître d’amour ».
+* **Intérêt :** le récit d’aventures devient une réflexion sur la manière dont un milieu produit des comportements.
+* **Avis personnel possible :** la simplicité de l’intrigue permet une analyse complexe de la violence et de l’apprentissage.
+
+### Trois questions possibles du professeur
+
+**1. Pourquoi les humains sont-ils appelés des « dieux » ?**
+Parce que Croc-Blanc perçoit leur puissance matérielle sans comprendre leurs techniques ni leurs institutions.
+
+**2. Beauty-Smith rend-il Croc-Blanc sauvage ?**
+Pas exactement. Croc-Blanc possède déjà des comportements violents, mais Beauty-Smith les intensifie et les exploite systématiquement.
+
+**3. Pourquoi Jim Hall est-il important ?**
+Parce que son histoire applique à un humain la même question du milieu destructeur : la société violente contribue à produire l’homme violent qu’elle combat.
+
+## Avis personnel argumenté
+
+> J’ai trouvé *Croc-Blanc* plus complexe qu’un simple roman d’aventures animalières. Son intérêt principal vient selon moi de la manière dont le comportement du héros évolue selon son environnement. La comparaison entre Beauty-Smith et Weedon Scott est particulièrement efficace : le premier transforme les capacités de Croc-Blanc en violence permanente, tandis que le second montre qu’un autre apprentissage reste possible. J’ai également trouvé intéressant que le roman ne présente pas automatiquement les humains comme plus « civilisés » que les animaux. Les épisodes de combats sont toutefois répétitifs et certaines représentations humaines ou certains termes de la traduction de 1923 sont datés. Malgré cette réserve, le point de vue animal et la progression du personnage donnent au livre un véritable intérêt littéraire au-delà de son intrigue.
+
+Cet avis doit être personnalisé par l’élève.
+
+## Conclusion
+
+*Croc-Blanc* associe efficacité narrative et réflexion sur le vivant. Le roman utilise un chien-loup comme centre perceptif afin de rendre étranges des réalités humaines ordinaires : pouvoir, propriété, punition, affection et apprentissage.
+
+Son intérêt littéraire réside surtout dans la tension entre plusieurs couples d’oppositions :
+
+* inné / acquis ;
+* Wild / civilisation ;
+* violence / affection ;
+* instinct / règle ;
+* domination / confiance.
+
+L’œuvre reste également importante pour comprendre le naturalisme américain de Jack London et ses récits du Grand Nord. Sa permanence éditoriale, son usage scolaire et ses nombreuses adaptations expliquent qu’elle demeure accessible à différents âges, à condition que l’analyse ne réduise pas le roman à une simple histoire de chien.
+
+## Ce qu’il faut absolument retenir
+
+* **Auteur :** Jack London.
+* **Œuvre :** *White Fang / Croc-Blanc*.
+* **Date :** 1906.
+* **Genre :** roman d’aventures et récit animalier.
+* **Contexte :** Grand Nord et ruée vers l’or du Klondike.
+* **Personnages essentiels :** Croc-Blanc, Kiche, Castor-Gris, Beauty-Smith, Weedon Scott, Matt, Collie, Jim Hall.
+* **Thèmes majeurs :** survie ; milieu et apprentissage ; violence ; domestication ; relation homme-animal.
+* **Narrateur :** hétérodiégétique.
+* **Point de vue :** focalisation souvent interne à Croc-Blanc.
+* **Style :** descriptions physiques, vocabulaire sensoriel, motifs de faim et de violence, perspective animale.
+* **Passage essentiel 1 :** « La loi de la viande ».
+* **Passage essentiel 2 :** « Le maître d’amour ».
+* **Portée générale :** réflexion sur l’influence du milieu et la frontière entre sauvage et civilisé.
+* **Trois idées pour un travail écrit :**
+
+  1. Croc-Blanc comme produit de plusieurs environnements ;
+  2. remise en cause de la supériorité morale automatique de l’homme ;
+  3. focalisation animale comme décentrement du regard.
+* **Trois idées pour l’oral :**
+
+  1. comparer Beauty-Smith et Scott ;
+  2. expliquer les humains comme « dieux » ;
+  3. rapprocher Jim Hall et Croc-Blanc.
+
+---
+
+## Comparaison pédagogique des trois fiches
+
+| Niveau               | Belgique                          | France                           | Objectif principal                                           | Profondeur d’analyse | Difficulté                                 |
+| -------------------- | --------------------------------- | -------------------------------- | ------------------------------------------------------------ | -------------------- | ------------------------------------------ |
+| Primaire             | Surtout 5e-6e primaire            | Surtout CM2, avec accompagnement | Comprendre l’histoire, les personnages et les thèmes simples | Faible à modérée     | Difficile dans la traduction de 1923       |
+| Secondaire inférieur | 1re-3e secondaire, surtout 1re-2e | Collège, particulièrement 6e-5e  | Comprendre, expliquer et commencer l’analyse littéraire      | Modérée              | Moyenne                                    |
+| Secondaire supérieur | 4e-6e secondaire                  | Lycée                            | Analyser, interpréter et argumenter                          | Élevée               | Moyenne en lecture, plus élevée en analyse |
+
+Les correspondances Belgique–France ci-dessus sont des **repères pédagogiques approximatifs**, et non des équivalences administratives.
+
+---
+
+## Partie 6 — Sources et fiabilité
+
+### Source primaire analysée
+
+**EPUB Atramenta fourni : *Croc Blanc*, Jack London.**
+
+Éléments directement établis par l’analyse du fichier :
+
+* titre ;
+* auteur ;
+* éditeur Atramenta ;
+* date technique du 9 août 2019 ;
+* date de mise en ligne Atramenta indiquée : 10 mars 2011 ;
+* langue française ;
+* identifiant Atramenta ;
+* 25 chapitres ;
+* texte littéraire ;
+* couverture ;
+* absence de traducteur dans les métadonnées ;
+* anomalie « Moby-Dick » dans le titre HTML de la table des matières.
+
+### Métadonnées et première traduction française
+
+**Wikisource — *Croc-Blanc*, édition G. Crès, 1923.**
+Source numérique fondée sur l’édition imprimée numérisée. Elle permet de vérifier Paul Gruyer et Louis Postif comme traducteurs et de comparer les 25 chapitres avec l’EPUB. ([Wikisource][5])
+
+La correspondance textuelle avec le document fourni est très forte ; elle justifie l’identification de la traduction, tout en conservant la distinction avec les métadonnées Atramenta.
+
+### Première édition américaine et structure originale
+
+**Édition Macmillan de 1906 numérisée.**
+La page de titre et la page de copyright établissent l’éditeur, New York et la publication d’octobre 1906. ([Wikisource][26])
+
+La table des matières de l’édition originale permet de vérifier les cinq parties et les 25 chapitres. ([Wikisource][4])
+
+### Histoire de la publication et rémunération
+
+**Oxford University Press — note éditoriale de *The Call of the Wild, White Fang, and Other Stories*.**
+Source universitaire utilisée pour la chronologie de rédaction, la publication dans *Outing Magazine* et la rémunération de 7 419,20 dollars. ([PagePlace][3])
+
+**George Brett, lettre à Jack London, octobre 1906**, reproduite dans *London in His Own Time*.
+Source utilisée pour préciser la sortie du 25 octobre et le paiement de 5 000 dollars à valoir sur les redevances générales — ce dernier montant ne doit pas être confondu avec les ventes de *White Fang*. ([JSTOR][11])
+
+### Biographie et contexte du Klondike
+
+**Jack London State Historic Park.**
+Source institutionnelle utilisée pour le nom de naissance et le séjour de London au Yukon pendant la ruée vers l’or de 1897-1898. ([Jack London State Historic Park][1])
+
+### Analyse littéraire et naturalisme
+
+**Kenneth K. Brandt, *Jack London*, Liverpool University Press.**
+Études universitaires utilisées pour le naturalisme, la relation entre *The Call of the Wild* et *White Fang* et le motif des humains comme « dieux ». ([Cambridge][6])
+
+Les interprétations détaillées du présent dossier — Beauty-Smith/Scott, parallélisme Jim Hall/Croc-Blanc, motifs main/crocs, etc. — sont des **analyses littéraires fondées sur le texte**, et non des faits bibliographiques.
+
+### Réception historique
+
+**International Socialist Review, février 1907.**
+Source contemporaine utilisée pour documenter une réception favorable et une lecture de l’œuvre comme passage de la sauvagerie vers la civilisation. ([Marxists][12])
+
+**Publicité Macmillan reproduisant un extrait du *New York Times Saturday Review*.**
+Source utile mais de valeur probante plus limitée, puisqu’il s’agit d’une citation critique sélectionnée par l’éditeur à des fins promotionnelles. ([Wikisource][13])
+
+### Controverse
+
+**Theodore Roosevelt Center** et **presse de 1907**.
+Sources utilisées pour documenter la controverse des « nature fakers » et la critique de *White Fang* par Theodore Roosevelt. ([Theodore Roosevelt Center][18])
+
+### Censure et interdictions
+
+Les affirmations relatives à l’Italie et à la Yougoslavie en 1929 apparaissent dans plusieurs ressources secondaires contemporaines, notamment Pan Macmillan. ([Pan Macmillan][15])
+
+**Limite :** aucune documentation administrative primaire suffisamment précise n’a été retrouvée dans cette recherche. Ces cas restent donc classés **« À vérifier »**, et non « interdictions vérifiées ».
+
+### Adaptations
+
+* **American Film Institute :** versions de 1925 et 1936 et repérage d’autres versions. ([AFI Catalog][21])
+* **Titanus :** film de Lucio Fulci, 1973. ([Titanus][23])
+* **Disney :** *White Fang*, 1991. ([Disney Movies][24])
+* **Académie des César / ressources professionnelles de l’animation :** *Croc-Blanc*, 2018. 
+
+### Édition scolaire moderne
+
+**Gallimard, Folio+Collège.**
+Édition 2019 de 384 pages, traduction Marc Amfreville et Antoine Cazé, avec dossiers pédagogiques pour les classes françaises de 6e et 5e. ([Cercle Enseignement][7])
+
+La BnF catalogue cette édition comme **« texte intégral »**. ([BnF Catalogue][20])
+
+Cette mention ne suffit pas, à elle seule, à quantifier d’éventuelles différences ou coupures de la traduction Gruyer–Postif de 1923. **Aucune estimation de passages retranchés n’est donc avancée dans ce dossier.**
+
+### Iconographie
+
+**Couverture de l’édition analysée :** extraite directement de l’EPUB.
+
+**Portrait de Jack London :** National Portrait Gallery, Smithsonian Institution, photographie d’Arnold Genthe, vers 1900, NPG.98.57, CC0. ([Smithsonian Institution][2])
+
+### Référence méthodologique du projet
+
+Le dossier suit les critères de structure, vérification bibliographique, distinction entre ventes et tirages, traitement des censures, adaptations, iconographie et niveaux pédagogiques définis dans le fichier de référence du projet. 
+
+### Incertitudes et contradictions
+
+1. **Traducteurs de l’EPUB :** absents des métadonnées. L’attribution Gruyer–Postif repose sur la comparaison textuelle avec l’édition G. Crès de 1923.
+2. **Date de l’édition Atramenta :** le fichier distingue la première publication sur Atramenta, le 10 mars 2011, et sa date technique OPF, le 9 août 2019.
+3. **Titre :** l’EPUB écrit *Croc Blanc* ; la forme bibliographique française historique est *Croc-Blanc*.
+4. **Table des matières :** anomalie interne « Moby-Dick » dans le titre HTML ; le contenu est bien *Croc-Blanc*.
+5. **Tirage initial :** information non trouvée.
+6. **Ventes initiales ou cumulées :** aucun chiffre suffisamment fiable trouvé.
+7. **Redevances Macmillan :** connues qualitativement comme supérieures au paiement d’*Outing*, mais montant exact non documenté dans la source consultée.
+8. **Censures de 1929 :** attestations secondaires trouvées, mais documentation administrative primaire insuffisante pour les présenter comme des cas définitivement vérifiés visant spécifiquement *White Fang*.
+9. **Exhaustivité des adaptations :** la liste privilégie les principales adaptations cinématographiques suffisamment documentées ; elle n’est pas présentée comme une filmographie ou médiagraphie absolument exhaustive.
+10. **Longueur de l’EPUB :** environ 60 000 mots selon comptage automatisé ; ce n’est pas une donnée éditoriale officielle.
+
+---
+
+# Synthèse rapide
+
+* **Œuvre :** *Croc-Blanc* (*White Fang*)
+* **Auteur :** Jack London
+* **Genre :** roman d’aventures, récit animalier, roman d’apprentissage à forte dimension naturaliste
+* **Date de première publication :** 1906
+* **Première publication en feuilleton :** *Outing Magazine*, mai-octobre 1906
+* **Première publication en volume :** The Macmillan Company, New York, octobre 1906 ; le 25 octobre est indiqué par la correspondance éditoriale. ([PagePlace][3])
+* **Première édition française vérifiée :** G. Crès et Cie, 1923, traduction Paul Gruyer et Louis Postif. ([Wikisource][5])
+* **Édition analysée :** EPUB Atramenta, métadonnées datées du 9 août 2019 ; première publication Atramenta indiquée le 10 mars 2011
+* **Thèmes principaux :** survie, adaptation, violence, domestication, apprentissage, rapport homme-animal
+* **Personnages principaux :** Croc-Blanc, Kiche, Castor-Gris, Beauty-Smith, Weedon Scott
+* **Accueil lors de la parution :** témoignages critiques contemporains favorables retrouvés ; absence de corpus suffisamment complet pour parler d’unanimité
+* **Succès commercial :** rémunération importante de l’auteur documentée, mais **aucun chiffre fiable de tirage ou de ventes retrouvé**
+* **Interdiction ou censure notable :** aucune mesure visant spécifiquement *White Fang* suffisamment documentée pour être considérée ici comme établie ; allégations concernant l’Italie et la Yougoslavie en 1929 à vérifier
+* **Controverse notable :** polémique des « nature fakers » avec Theodore Roosevelt, vérifiée
+* **Adaptation particulièrement connue :** *White Fang*, Disney, 1991, réalisé par Randal Kleiser ; le film d’animation *Croc-Blanc* d’Alexandre Espigares, 2018, constitue une autre adaptation majeure
+* **Niveau scolaire minimal conseillé pour le texte intégral fourni :** fin du primaire avec accompagnement ; plus naturellement à partir du début du secondaire
+* **Primaire :** **avec accompagnement**, plutôt 6e primaire
+* **Secondaire inférieur :** **adaptée**
+* **Secondaire supérieur :** **adaptée**, notamment pour l’analyse du naturalisme, du point de vue et du déterminisme
+* **Niveau général de difficulté de l’édition analysée :** **moyen**, avec passages plus exigeants du fait de la traduction de 1923
+* **Intérêt pédagogique :** **9/10**
+
+Le niveau de difficulté et la note d’intérêt pédagogique sont des **évaluations pédagogiques argumentées**, et non des données objectives ou bibliographiques.
+
+[1]: https://jacklondonpark.com/wp-content/uploads/2023/06/EDEN-Spring-2023.vol26.No2_.DIGITAL.pdf?utm_source=chatgpt.com "Eden Winter 2021"
+[2]: https://www.si.edu/object/npg_NPG.98.57?utm_source=chatgpt.com "Jack London | Smithsonian Institution"
+[3]: https://api.pageplace.de/preview/DT0400.9780191592584_A23536352/preview-9780191592584_A23536352.pdf?utm_source=chatgpt.com "9780199538898.pdf"
+[4]: https://en.wikisource.org/wiki/White_Fang "White Fang - Wikisource, the free online library"
+[5]: https://fr.wikisource.org/wiki/Croc-Blanc?utm_source=chatgpt.com "Croc-Blanc - Wikisource"
+[6]: https://www.cambridge.org/core/books/abs/jack-london/into-and-out-of-the-wild-the-call-of-the-wild-and-white-fang/CABD2789A54AA33391A0EB49EA3AB0FE?utm_source=chatgpt.com "Into and Out of the Wild: The Call of the Wild and White Fang (Chapter 3) - Jack London"
+[7]: https://www.cercle-enseignement.com/Ouvrages/Gallimard/Folio-College/Croc-Blanc?utm_source=chatgpt.com "Cercle Gallimard de l'enseignement/Croc-Blanc"
+[8]: https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp103618&utm_source=chatgpt.com "Croc-Blanc, by Jack London et al. | The Online Books Page"
+[9]: https://jacklondonpark.com/wp-content/uploads/2026/04/Jack-Londons-Adventures.pdf?utm_source=chatgpt.com "Where in the World was Jack London?"
+[10]: https://www.arts.gov/initiatives/nea-big-read/call-wild-white-fang-and-other-stories?utm_source=chatgpt.com "The Call of the Wild, White Fang, and Other Stories | National Endowment for the Arts"
+[11]: https://www.jstor.org/stable/j.ctv1chs9xk?utm_source=chatgpt.com "London in His Own Time: A Biographical Chronicle of His Life, Drawn from Recollections, Interviews, and Memoirs by Family, Friends, and Associates | JSTOR"
+[12]: https://www.marxists.org/history/usa/pubs/isr/v07n08-feb-1907-ISR-gog-Harv.pdf?utm_source=chatgpt.com "The International Socialist Review"
+[13]: https://en.wikisource.org/wiki/Page%3ALost_Face_%281910%29.djvu/265?utm_source=chatgpt.com "Page:Lost Face (1910).djvu/265 - Wikisource, the free online library"
+[14]: https://upload.wikimedia.org/wikipedia/commons/8/89/White_Fang_%28IA_cu31924012674424%29.pdf?utm_source=chatgpt.com "White Fang"
+[15]: https://www.panmacmillan.com/blogs/general/banned-books-reasons-why-usa-uk?utm_source=chatgpt.com "Books that were banned and the reasons why - Pan Macmillan"
+[16]: https://www.kpl.gov/collection/adult-banned-challenged-books/?utm_source=chatgpt.com "Adult Banned/Challenged Books — Kalamazoo Public Library"
+[17]: https://tile.loc.gov/storage-services/service/ndnp/hihouml/batch_hihouml_gonzalo_ver01/data/sn85047084/00294557544/1907053001/0311.pdf?utm_source=chatgpt.com "U. S. WEATHER"
+[18]: https://www.theodorerooseveltcenter.org/subject/naturalists/?utm_source=chatgpt.com "Naturalists | - Theodore Roosevelt Center"
+[19]: https://catalog.afi.com/Film/13260-WHITE-FANG?cxt=filmography&utm_source=chatgpt.com "AFI|Catalog"
+[20]: https://catalogue.bnf.fr/rechercher.do?index=AUT3&numNotice=17095740&utm_source=chatgpt.com "Liste de notices après rebond | Accueil | Catalogue général | BnF"
+[21]: https://catalog.afi.com/Catalog/MovieDetails/7027?utm_source=chatgpt.com "AFI|Catalog"
+[22]: https://catalog.afi.com/Film/7027-WHITE-FANG?utm_source=chatgpt.com "AFI|Catalog"
+[23]: https://titanus.it/en/progetto/cinema/zanna-bianca/?utm_source=chatgpt.com "Titanus - WHITE FANG - Titanus"
+[24]: https://movies.disney.com/white-fang?utm_source=chatgpt.com "White Fang | Disney Movies"
+[25]: https://www.cambridge.org/core/books/jack-london/9010BB283648FB8322A68A837ADE962A?utm_source=chatgpt.com "Jack London"
+[26]: https://en.wikisource.org/wiki/White_Fang?utm_source=chatgpt.com "White Fang - Wikisource, the free online library"
