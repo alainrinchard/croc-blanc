@@ -125,3 +125,8 @@ html .print-sheet .sheet-toolbar {color-scheme:light}
  .sheet-toolbar {display:none!important}
  .hero h1 {white-space:normal}
 }
+
+/* Portrait fourni par le concepteur, proportions originales conservées. */
+.creator-portrait {display:block;width:160px;height:auto;aspect-ratio:2/3;flex-shrink:0;border-radius:14px;border:1px solid var(--line)}
+@media(max-width:600px){.creator-title{flex-direction:column;align-items:flex-start}.creator-portrait{width:120px}}
+@media print{.creator-portrait{width:90px}}
